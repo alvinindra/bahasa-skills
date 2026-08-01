@@ -41,20 +41,11 @@ Pilih satu kategori utama dari medium tempat teks akan tayang, lalu pinjam refer
 - Informasi yang menentukan arah tulisan tidak ada (sapaan merek, ragam, platform, audiens): ajukan satu pertanyaan singkat. Salah ragam lebih mahal daripada satu pertanyaan.
 - Tidak ada kategori yang cocok: jalankan bahasa-inti saja secara penuh.
 
-## Peta berkas
+## Hemat konteks
 
-```
-skills/
-├── bahasa-inti/            # WAJIB untuk semua tugas
-│   └── references/         # frasa-terlarang, kata-baku, padanan-istilah, ejaan-eyd
-├── bahasa-marketing/
-│   └── references/         # media-sosial, copywriting
-├── bahasa-website/
-│   └── references/         # ux-writing, halaman-situs
-├── bahasa-seo/
-│   └── references/         # riset-kata-kunci, on-page
-└── bahasa-peneliti/
-    └── references/         # kalimat-akademik, struktur-sitasi
-```
+Protokolnya wajib; borosnya tidak.
+
+- Banyak tugas menulis dalam satu sesi: muat aturan sekali di awal. Berkas yang sudah ada di konteks tidak perlu dibaca ulang untuk tugas berikutnya.
+- Baca `references/` selektif. Tiap SKILL.md punya tabel referensi berkolom "Baca ketika"; muat yang cocok dengan tugas itu saja, jangan semuanya sekaligus.
 
 Satu pengingat terakhir: paket ini menilai mutu dari spesifisitas. Kalimat yang bisa dipakai untuk topik apa pun adalah kalimat yang harus ditulis ulang, di kategori mana pun.
