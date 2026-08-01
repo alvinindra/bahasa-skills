@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/thumbnail.webp" alt="bahasa-skills" width="800">
+</p>
+
 # bahasa-skills
 
 Paket skill Claude untuk menulis bahasa Indonesia yang bermutu: diksi tepat, kaidah benar, ragam sesuai situasi, dan **bebas AI slop** (frasa klise, struktur generik, serta kosakata khas keluaran mesin).
@@ -33,7 +37,7 @@ Paket ini menjawab keduanya dengan kerangka Ivan Lanin: tulisan harus **benar** 
 claude plugin marketplace add alvinindra/bahasa-skills
 ```
 
-lalu di sesi Claude Code jalankan `/plugin install bahasa-skills@bahasa-skills`. Sebelum repo tayang di GitHub, tambahkan dari path lokal: `claude plugin marketplace add D:\Work\_research\bahasa-skills`.
+lalu di sesi Claude Code jalankan `/plugin install bahasa-skills@bahasa-skills`.
 
 **Cara 2: klon sebagai satu skill.** SKILL.md di root menjadi pemandu yang memuat aturan kategori sesuai prompt:
 
@@ -66,6 +70,7 @@ Seluruh sumber terdokumentasi di [sumber/](sumber/). Garis besarnya:
 bahasa-skills/
 ├── SKILL.md                  # pemandu arah (router) untuk semua tugas bahasa Indonesia
 ├── .claude-plugin/           # manifest plugin & marketplace
+├── assets/                   # thumbnail repo
 ├── skills/
 │   ├── bahasa-inti/          # SKILL.md + references/ (frasa terlarang, kata baku, padanan, EYD)
 │   ├── bahasa-marketing/     # SKILL.md + references/ (media sosial, copywriting)
