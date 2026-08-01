@@ -28,6 +28,7 @@ Paket ini menjawab keduanya dengan kerangka Ivan Lanin: tulisan harus **benar** 
 | [bahasa-seo](skills/bahasa-seo/SKILL.md) | Konten organik: riset kata kunci, search intent, title dan meta description, struktur heading, standar helpful content Google. |
 | [bahasa-peneliti](skills/bahasa-peneliti/SKILL.md) | Karya ilmiah: ragam akademik, kalimat efektif, struktur IMRaD, abstrak, dan larangan mutlak referensi fiktif. |
 | [sumber/](sumber/) | Dokumentasi semua rujukan riset yang dipakai menyusun paket ini, beserta catatan mutu sumbernya. |
+| [CONTOH.md](CONTOH.md) | Bukti sebelum dan sesudah: 16 percobaan nyata membandingkan keluaran tanpa vs dengan skill lintas model (Haiku, Sonnet, Opus, Fable), lengkap dengan temuan pemeriksaan, token, dan durasinya. |
 
 ## Instalasi
 
