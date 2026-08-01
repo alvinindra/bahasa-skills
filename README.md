@@ -17,11 +17,48 @@ Dua masalah yang sama-sama merusak tulisan berbahasa Indonesia buatan AI:
 
 Paket ini menjawab keduanya dengan kerangka Ivan Lanin: tulisan harus **benar** (sesuai kaidah) sekaligus **baik** (sesuai konteks), dan "baku tak mesti kaku".
 
+## Sebelum dan sesudah
+
+Prompt sama, model sama (Sonnet 5); yang berbeda hanya skill terpasang atau tidak. Dua cuplikan dari [CONTOH.md](CONTOH.md); kutipan ❌ ditampilkan apa adanya sebagai bukti.
+
+**Caption Instagram** untuk pengumuman fitur QRIS aplikasi kasir "Kasirin" (merek fiktif bahan uji):
+
+❌ Tanpa skill, 5 temuan: em dash gaya, hook yang bisa menempel pada pengumuman apa pun, klaim melebihi brief, penutup tripel, sembilan hashtag.
+
+> Buat kamu pemilik warung, kedai kopi, sampai toko kelontong—ini kabar yang kamu tunggu-tunggu 👀 […] Usaha lancar, transaksi gampang, cuan tetap utuh 💸
+>
+> `#Kasirin #KasirinID #AplikasiKasir #QRIS #UMKM #WarungNaikKelas #KedaiKopi #TokoKelontong #UsahaDigital`
+
+✅ Dengan skill, nol temuan: hook 83 karakter yang spesifik masalah, klaim berpagar brief, satu CTA, empat hashtag.
+
+> Ada pembeli di warungmu pegang HP, bukan dompet. "Bisa bayar QRIS?" Kamu jawab apa?
+>
+> Sekarang jawabannya gampang: bisa.
+> Kasirin sekarang terima pembayaran QRIS, langsung dari aplikasi yang biasa kamu pakai buat catat transaksi. Nggak perlu mesin tambahan, nggak perlu pasang aplikasi lain.
+>
+> Biaya transaksinya gratis sampai 31 Oktober 2026: uang dari tiap transaksi QRIS masuk utuh ke kamu, nggak kepotong sepeser pun.
+>
+> Buka aplikasi Kasirin, lalu aktifkan QRIS di menu pembayaran sekarang.
+>
+> `#kasirin #umkmnaikkelas #qriswarung #kasiraplikasi`
+
+**Judul artikel SEO** untuk kata kunci "cara mengatur keuangan rumah tangga":
+
+> ❌ Cara Mengatur Keuangan Rumah Tangga dengan Gaji UMR Pakai Rumus 50/30/20
+
+72 karakter (terpotong di hasil pencarian), Title Case.
+
+> ✅ Cara mengatur keuangan rumah tangga gaji UMR: rumus 50/30/20
+
+60 karakter persis, kata kunci di depan, kapital hanya di kata pertama.
+
+Dari sepuluh percobaan lintas model dengan prompt caption yang sama: Haiku 4.5 **dengan** skill (2 temuan) mengalahkan Opus 5 **tanpa** skill (7 temuan). Aturan tertulis lebih menentukan daripada ukuran model. Keluaran mentah, temuan pemeriksaan, token, dan metodenya ada di [CONTOH.md](CONTOH.md).
+
 ## Isi paket
 
 | Berkas | Untuk apa |
 |---|---|
-| [SKILL.md](SKILL.md) (root) | **Pemandu arah.** Membaca kebutuhan dari prompt pengguna, lalu mengarahkan ke aturan inti dan skill kategori yang tepat. |
+| [SKILL.md](SKILL.md) (root) | **Pemandu arah** untuk instalasi klon (Cara 2): membaca kebutuhan dari prompt pengguna, lalu mengarahkan ke aturan inti dan skill kategori yang tepat. Pada instalasi plugin, peran ini dijalankan description tiap skill. |
 | [bahasa-inti](skills/bahasa-inti/SKILL.md) | Aturan dasar semua tulisan: larangan anti-slop, pemilihan ragam, kata baku, padanan istilah, EYD V. Skill lain menumpuk di atasnya. |
 | [bahasa-marketing](skills/bahasa-marketing/SKILL.md) | Materi pemasaran: caption media sosial (Instagram, TikTok, X, LinkedIn, Facebook), iklan, email, tagline, brand voice. |
 | [bahasa-website](skills/bahasa-website/SKILL.md) | Teks situs dan antarmuka: UX writing, microcopy, tombol, pesan galat, halaman landing, produk, tentang kami, FAQ. |
@@ -43,10 +80,10 @@ lalu di sesi Claude Code jalankan `/plugin install bahasa-skills@bahasa-skills`.
 **Cara 2: klon sebagai satu skill.** SKILL.md di root menjadi pemandu yang memuat aturan kategori sesuai prompt:
 
 ```bash
-git clone https://github.com/alvinindra/bahasa-skills.git "$HOME\.claude\skills\bahasa-skills"
+git clone https://github.com/alvinindra/bahasa-skills.git "$HOME/.claude/skills/bahasa-skills"
 ```
 
-**Cara 3: salin per kategori.** Salin folder yang dibutuhkan dari `skills\` ke `.claude\skills\` proyek atau `%USERPROFILE%\.claude\skills\`. Sertakan selalu `bahasa-inti`, karena skill lain merujuk berkasnya.
+**Cara 3: salin per kategori.** Salin folder yang dibutuhkan dari `skills/` ke `.claude/skills/` proyek atau `~/.claude/skills/`. Sertakan selalu `bahasa-inti`, karena skill lain merujuk berkasnya.
 
 ## Cara kerja
 
@@ -79,6 +116,7 @@ bahasa-skills/
 │   ├── bahasa-seo/           # SKILL.md + references/ (riset kata kunci, on-page)
 │   └── bahasa-peneliti/      # SKILL.md + references/ (kalimat akademik, struktur & sitasi)
 ├── sumber/                   # dokumentasi rujukan riset
+├── CONTOH.md                 # bukti sebelum-sesudah lintas model
 └── README.md
 ```
 
