@@ -1,0 +1,13 @@
+{
+  "name": "bahasa-skills",
+  "owner": {
+    "name": "Alvin Indra"
+  },
+  "plugins": [
+    {
+      "name": "bahasa-skills",
+      "source": "./",
+      "description": "Paket skill penulisan bahasa Indonesia bermutu dan bebas AI slop: aturan inti, marketing & media sosial, website & UX writing, konten SEO, dan karya ilmiah."
+    }
+  ]
+}
