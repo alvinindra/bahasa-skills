@@ -1,6 +1,6 @@
 # Contoh penggunaan: tanpa dan dengan bahasa-skills
 
-Enam belas percobaan dijalankan pada 2 Agustus 2026 lewat subagent Claude Code: prompt pengguna yang sama persis dikerjakan dalam tiga kondisi, lalu setiap keluaran diperiksa terhadap Pemeriksaan Wajib [bahasa-inti](skills/bahasa-inti/SKILL.md) plus pemeriksaan tambahan kategorinya. Dokumen ini memuat keluaran mentahnya, temuan pemeriksaannya, dan perbandingan lintas model.
+Enam belas percobaan dijalankan pada 2 Agustus 2026 lewat subagent Claude Code: prompt pengguna yang sama persis dikerjakan tanpa dan dengan skill (untuk prompt contoh 1, dua model juga diuji kondisi pembanding "instruksi generik"), lalu setiap keluaran diperiksa terhadap Pemeriksaan Wajib [bahasa-inti](skills/bahasa-inti/SKILL.md) plus pemeriksaan tambahan kategorinya. Dokumen ini memuat keluaran mentahnya, temuan pemeriksaannya, dan perbandingan lintas model.
 
 | Kondisi | Instruksi yang diterima model |
 |---|---|
@@ -55,7 +55,7 @@ Empat keputusan awal yang dicatat model sebelum menulis: pembaca pemilik warung,
 >
 > `#kasirin #umkmnaikkelas #qriswarung #kasiraplikasi`
 
-Temuan: nol pada pemeriksaan saya. Hook 84 karakter (muat sebelum potongan "…more"), sapaan tunggal, satu CTA, klaim berjangkar pada tenggat yang memang ada di brief, empat hashtag, tanpa emoji, tanpa em dash.
+Temuan: nol pada pemeriksaan saya. Hook 83 karakter (muat sebelum potongan "…more"), sapaan tunggal, satu CTA, klaim berjangkar pada tenggat yang memang ada di brief, empat hashtag, tanpa emoji, tanpa em dash.
 
 ## Contoh 2: judul dan pembuka artikel (bahasa-seo)
 

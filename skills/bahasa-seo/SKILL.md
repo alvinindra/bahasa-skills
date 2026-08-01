@@ -42,7 +42,7 @@ Menulis artikel blog untuk kueri transaksional adalah salah format; sarankan hal
 
 | Elemen | Aturan |
 |---|---|
-| Title tag | 50–60 karakter; kata kunci di depan; menyebut nilai spesifik; tidak clickbait. "Harga Website Company Profile 2026 + Rinciannya" |
+| Title tag | 50–60 karakter; kata kunci di depan; menyebut nilai spesifik; tidak clickbait. "Harga website company profile 2026 + rincian biayanya" |
 | Meta description | 120–158 karakter (±120 aman di ponsel); aktif; kata kunci wajar; janji yang ditepati isi |
 | URL/slug | pendek, kata kunci, tanpa kata tugas: /harga-website-company-profile |
 | 100 kata pertama | memuat kata kunci utama secara alami, karena memang membahasnya, bukan disisipkan |
@@ -77,7 +77,7 @@ Menulis artikel blog untuk kueri transaksional adalah salah format; sarankan hal
 > ✅ "Membuat situs bisnis sendiri butuh tiga komponen: domain (±Rp150 ribu/tahun), hosting (mulai Rp25 ribu/bulan), dan CMS seperti WordPress (gratis). Panduan ini merinci 7 langkahnya sampai situs tayang, termasuk kesalahan yang paling sering bikin pemula bayar dobel."
 
 > ❌ Meta: "Website adalah kumpulan halaman yang saling terhubung. Pelajari lebih lanjut tentang website di artikel ini yang membahas secara lengkap."
-> ✅ Meta: "Rincian biaya bikin website 2026: domain, hosting, desain, plus 7 langkah agar tayang dalam seminggu tanpa jasa mahal."
+> ✅ Meta: "Rincian biaya bikin website 2026: domain, hosting, desain, plus 7 langkah agar situsmu tayang dalam seminggu tanpa jasa mahal."
 
 ## Pemeriksaan tambahan SEO
 

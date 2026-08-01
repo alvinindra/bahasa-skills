@@ -3,7 +3,7 @@
 ## Title tag
 
 - **50–60 karakter** (Google memotong ±600 px; kata Indonesia cenderung panjang, jadi hitung cermat).
-- Kata kunci utama di depan; nilai spesifik di belakang: "Harga Jasa SEO 2026: Rincian Paket & Cara Menilai Agensi".
+- Kata kunci utama di depan; nilai spesifik di belakang: "Harga jasa SEO 2026: rincian paket & cara menilai agensi".
 - Unik per halaman; jangan menumpuk varian ("Jasa SEO | SEO Murah | SEO Terbaik" = stuffing).
 - Angka dan tahun menaikkan klik bila jujur; jangan tulis 2026 pada isi 2023.
 

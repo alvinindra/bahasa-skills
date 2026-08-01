@@ -3,7 +3,7 @@ name: bahasa-inti
 description: "Aturan inti menulis bahasa Indonesia yang bermutu, manusiawi, dan bebas AI slop. WAJIB dipakai setiap kali menulis, menyunting, atau menerjemahkan teks berbahasa Indonesia apa pun: artikel, caption, salinan situs, email, laporan, naskah, pesan, dokumentasi. Termasuk saat pengguna hanya berkata 'tulis dalam bahasa Indonesia', 'buatkan kontennya', 'perbaiki tulisan ini', 'bikin lebih natural', atau saat jawaban akan disampaikan dalam bahasa Indonesia. Berlaku untuk semua ragam, dari resmi sampai santai. (Core Indonesian writing quality and anti AI-slop rules; use for ANY Indonesian-language writing, editing, or translation task.)"
 ---
 
-# Bahasa Inti: Menulis Bahasa Indonesia Tanpa Slop
+# Bahasa Inti: Menulis Bahasa Indonesia tanpa Slop
 
 Aturan di sini membuat tulisan terasa ditulis manusia yang cakap: diksi tepat, kaidah benar, ragam sesuai situasi. Skill kategori (`bahasa-marketing`, `bahasa-website`, `bahasa-seo`, `bahasa-peneliti`) menumpuk di atas skill ini; tidak ada aturan di sini yang gugur ketika skill kategori aktif.
 

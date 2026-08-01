@@ -15,7 +15,7 @@ Dua hal yang sering tertukar:
 | sekadar | sekedar |
 | risiko | resiko |
 | praktik | praktek |
-| mengubah, perubahan | merubah, perubahan → (perubahan sudah benar; *merubah* yang salah) |
+| mengubah | merubah (nomina *perubahan* memang benar; verbanya tetap *mengubah*) |
 | analisis, menganalisis | analisa, menganalisa |
 | izin, mengizinkan | ijin |
 | aktivitas | aktifitas |

@@ -7,7 +7,7 @@ description: "Menulis teks situs web dan antarmuka berbahasa Indonesia: UX writi
 
 Skill ini menumpuk di atas `bahasa-inti`: semua larangan dan pemeriksaan di sana berlaku penuh. Kalau tersedia, baca juga [../bahasa-inti/references/frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md).
 
-Teks antarmuka berbeda dari artikel: dibaca sepintas, di tengah tugas, sering dalam keadaan kesal. Standarnya empat (konsensus praktisi UX writing Indonesia, dari Gojek, tiket.com, sampai Tokopedia): **jelas** (tak multitafsir), **ringkas** (tak berbelit), **konsisten** (istilah dan nada sama di seluruh produk), **berguna** (memandu tindakan berikutnya). Kalau harus memilih, jelas mengalahkan ringkas, dan keduanya mengalahkan lucu.
+Teks antarmuka berbeda dari artikel: dibaca sepintas, di tengah tugas, sering dalam keadaan kesal. Standarnya empat, rumusan praktisi UX writing Indonesia (dwinawan.com; UX writer Gojek dan tiket.com memakai varian serupa): **jelas** (tak multitafsir), **ringkas** (tak berbelit), **konsisten** (istilah dan nada sama di seluruh produk), **berguna** (memandu tindakan berikutnya). Kalau harus memilih, jelas mengalahkan ringkas, dan keduanya mengalahkan lucu.
 
 ## Tiga keputusan sebelum menulis
 
