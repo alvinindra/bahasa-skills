@@ -7,11 +7,12 @@ description: "Pemandu paket bahasa-skills. WAJIB dipakai pada SETIAP tugas menul
 
 Paket ini terdiri dari satu fondasi dan empat spesialisasi. Tugasmu di sini ada tiga: kenali jenis permintaan, muat aturan yang tepat, lalu jalankan protokolnya sampai pemeriksaan akhir. Jangan menulis sebelum aturan termuat.
 
-## Langkah pemakaian
+## Alur singkat
 
-1. **Selalu baca [skills/bahasa-inti/SKILL.md](skills/bahasa-inti/SKILL.md) lebih dulu.** Larangan anti-slop, pemilihan ragam, dan Pemeriksaan Wajib di sana berlaku untuk semua jenis teks, tanpa kecuali.
-2. **Cocokkan permintaan dengan tabel arah di bawah**, lalu baca SKILL.md kategori yang cocok. Baca berkas `references/` yang disebut skill kategori itu sesuai kebutuhan tugas.
-3. **Ikuti protokol**: empat keputusan awal (pembaca, ragam, medium, satu pesan), tulis, lalu jalankan Pemeriksaan Wajib bahasa-inti plus pemeriksaan tambahan kategori. Teks yang belum lolos belum boleh diserahkan.
+1. Tentukan kategori dari bentuk keluaran yang diminta.
+2. Baca [skills/bahasa-inti/SKILL.md](skills/bahasa-inti/SKILL.md) dan SKILL.md kategori utama. Untuk tugas campuran, pilih satu kategori utama lalu gunakan aturan tambahan yang memang diperlukan.
+3. Baca hanya `references/` yang relevan menurut tabel di tiap skill.
+4. Tulis, lalu periksa draf dengan pemeriksaan inti dan pemeriksaan kategori yang sesuai. Lewati butir yang tidak relevan dengan tugas; jangan mengulang pemeriksaan yang sama.
 
 ## Tabel arah
 
@@ -43,9 +44,6 @@ Pilih satu kategori utama dari medium tempat teks akan tayang, lalu pinjam refer
 
 ## Hemat konteks
 
-Protokolnya wajib; borosnya tidak.
-
-- Banyak tugas menulis dalam satu sesi: muat aturan sekali di awal. Berkas yang sudah ada di konteks tidak perlu dibaca ulang untuk tugas berikutnya.
-- Baca `references/` selektif. Tiap SKILL.md punya tabel referensi berkolom "Baca ketika"; muat yang cocok dengan tugas itu saja, jangan semuanya sekaligus.
+Dalam satu sesi, jangan baca ulang berkas yang sudah tersedia di konteks. Tabel referensi tiap skill menjelaskan kapan sebuah berkas diperlukan.
 
 Satu pengingat terakhir: paket ini menilai mutu dari spesifisitas. Kalimat yang bisa dipakai untuk topik apa pun adalah kalimat yang harus ditulis ulang, di kategori mana pun.

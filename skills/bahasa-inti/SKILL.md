@@ -11,11 +11,7 @@ Prinsip kerjanya satu kalimat: **tulisan slop adalah tulisan yang bisa ditulis s
 
 ## Protokol
 
-1. **Sebelum menulis**: putuskan empat hal (bagian "Empat keputusan awal").
-2. **Saat menulis**: patuhi Larangan Keras dan Kewajiban.
-3. **Sesudah menulis**: jalankan Pemeriksaan Wajib di bagian akhir. Teks yang belum lolos pemeriksaan belum boleh diserahkan; perbaiki dulu, tanpa perlu izin.
-
-Untuk teks lebih dari dua paragraf, baca dulu [references/frasa-terlarang.md](references/frasa-terlarang.md): daftar lengkap frasa yang dilarang beserta gantinya.
+Gunakan aturan inti yang relevan dengan tugas; skill kategori menambahkan aturan khususnya. Tentukan pembaca, ragam, medium, dan pesan utama bila keputusan itu berpengaruh pada hasil. Baca `references/` hanya sesuai kolom "Baca ketika". Sebelum menyerahkan, jalankan pemeriksaan inti yang relevan dan pemeriksaan kategori; jangan mengulang butir yang sama.
 
 ## Empat keputusan awal
 
@@ -62,7 +58,7 @@ Toleransi: nol. Satu pelanggaran berarti kalimatnya ditulis ulang. Daftar lengka
 
 **L9. Menjilat dan bersolek.** "Pertanyaan yang bagus!", "Anda benar sekali!", superlatif tanpa data (*terbaik, no. 1, revolusioner, luar biasa*). Jawab saja; buktikan dengan spesifik, bukan dengan kata seru.
 
-**L10. Slop format.** Judul ber-Title Case ("Dampak Teknologi Dan Digitalisasi"; yang benar hanya kata pertama dan nama diri yang kapital), bold di tiap istilah, bullet untuk isi yang seharusnya prosa, emoji sebagai butir daftar atau hiasan, heading bertingkat untuk teks pendek, garis pemisah sebelum tiap bagian, dan **em dash (—) sebagai tanda baca gaya**. Em dash pengganti koma, titik, titik dua, atau kurung dilarang total; pemakaian sah tanda pisah hanya rentang angka/tempat (2020—2025), itu pun boleh ditulis "sampai". Format mengikuti isi, bukan menghiasinya.
+**L10. Slop format.** Judul ber-Title Case ("Dampak Teknologi Dan Digitalisasi"; yang benar hanya kata pertama dan nama diri yang kapital), bold di tiap istilah, bullet untuk isi yang seharusnya prosa, emoji sebagai butir daftar atau hiasan, heading bertingkat untuk teks pendek, garis pemisah sebelum tiap bagian, dan **em dash (—) sebagai tanda baca gaya**. Em dash sebagai tanda baca gaya dilarang total. Dalam ragam resmi dan konsultatif, jangan gunakan em dash sama sekali; untuk rentang angka atau tempat, tulis "sampai". Dalam ragam lain, em dash hanya boleh untuk rentang angka/tempat (2020—2025). Format mengikuti isi, bukan menghiasinya.
 
 ## Kewajiban
 
@@ -94,11 +90,11 @@ Ringkasan; rincian dan tabel lengkap di [references/ejaan-eyd.md](references/eja
 
 ## Pemeriksaan Wajib
 
-Jalankan berurutan pada draf final. Ada temuan berarti perbaiki dulu, baru serahkan.
+Jalankan pada draf final sesuai tugas. Lewati butir yang tidak relevan dan hindari pemeriksaan ganda dengan skill kategori. Perbaiki temuan sebelum menyerahkan.
 
 1. **Pindai frasa terlarang** (L1 sampai L9, plus daftar lengkap di references). Satu temuan pun: tulis ulang kalimatnya, bukan sekadar menghapus frasanya.
 2. **Pindai kata nonbaku dan "di mana/yang mana"** sebagai penghubung. Cek juga *di-/di* dan *sosial media* yang seharusnya *media sosial*.
-3. **Hitung:** kata transisi klise lebih dari satu? Ada em dash (—) di luar rentang angka/tempat? Tripel kata sifat lebih dari satu? Emoji hias? Bold berlebihan? Pangkas.
+3. **Format:** ada em dash (—)? Dalam ragam resmi/konsultatif, ganti semuanya dengan "sampai" untuk rentang atau tanda baca yang sesuai. Dalam ragam lain, em dash hanya boleh untuk rentang angka/tempat. Periksa juga transisi klise, tripel kata sifat, emoji hias, dan bold berlebihan.
 4. **Uji jangkar:** tiap klaim punya angka, nama, atau contoh? Yang tidak punya: isi atau hapus.
 5. **Uji hapus:** hapus kalimat pertama dan terakhir dalam pikiran. Kalau makna utuh, keduanya memang harus dihapus.
 6. **Uji baca nyaring:** adakah kalimat yang janggal diucapkan? Tulis ulang seperti menjelaskan ke satu orang nyata.

@@ -4,7 +4,7 @@
 
 # bahasa-skills
 
-Paket skill Claude untuk menulis bahasa Indonesia yang bermutu: diksi tepat, kaidah benar, ragam sesuai situasi, dan **bebas AI slop** (frasa klise, struktur generik, serta kosakata khas keluaran mesin).
+Paket skill untuk Claude Code, Codex, dan OpenCode untuk menulis bahasa Indonesia yang bermutu: diksi tepat, kaidah benar, ragam sesuai situasi, dan **bebas AI slop** (frasa klise, struktur generik, serta kosakata khas keluaran mesin).
 
 Repo: https://github.com/alvinindra/bahasa-skills
 
@@ -69,29 +69,33 @@ Dari sepuluh percobaan lintas model dengan prompt caption yang sama: Haiku 4.5 *
 
 ## Instalasi
 
-**Cara 1: plugin Claude Code** (disarankan; skill terpicu otomatis lewat description masing-masing):
+**Claude Code: pasang sebagai plugin** (skill terpicu otomatis lewat description masing-masing):
 
 ```bash
 claude plugin marketplace add alvinindra/bahasa-skills
 ```
 
-lalu di sesi Claude Code jalankan `/plugin install bahasa-skills@bahasa-skills`.
+Lalu di sesi Claude Code jalankan `/plugin install bahasa-skills@bahasa-skills`.
 
-**Cara 2: klon sebagai satu skill.** SKILL.md di root menjadi pemandu yang memuat aturan kategori sesuai prompt:
+**Codex: instalasi global.** Codex menemukan `SKILL.md` di bawah `~/.agents/skills/`. Klon repo di sana agar pemandu dan skill kategori tersedia:
 
 ```bash
-git clone https://github.com/alvinindra/bahasa-skills.git "$HOME/.claude/skills/bahasa-skills"
+mkdir -p "$HOME/.agents/skills"
+git clone https://github.com/alvinindra/bahasa-skills.git "$HOME/.agents/skills/bahasa-skills"
 ```
 
-**Cara 3: salin per kategori.** Salin folder yang dibutuhkan dari `skills/` ke `.claude/skills/` proyek atau `~/.claude/skills/`. Sertakan selalu `bahasa-inti`, karena skill lain merujuk berkasnya.
+**OpenCode: instalasi global.** OpenCode juga memindai `~/.agents/skills/`, sehingga langkah yang sama di atas memasang paket untuk OpenCode. Untuk instalasi khusus proyek, klon ke `.agents/skills/` di dalam repo:
+
+```bash
+mkdir -p .agents/skills
+git clone https://github.com/alvinindra/bahasa-skills.git .agents/skills/bahasa-skills
+```
+
+Codex dan OpenCode sama-sama membaca format `SKILL.md` dari direktori `.agents/skills/`. Untuk Claude Code tanpa plugin, salin folder skill yang diperlukan ke `.claude/skills/`; sertakan `bahasa-inti` karena skill kategori merujuk berkasnya.
 
 ## Cara kerja
 
-Setiap skill memakai protokol tiga langkah yang sama:
-
-1. **Sebelum menulis**: tentukan pembaca, ragam, medium, dan satu pesan utama.
-2. **Saat menulis**: patuhi larangan keras (daftar frasa terlarang, kaidah diksi, aturan kategori).
-3. **Sesudah menulis**: jalankan pemeriksaan wajib. Pindai frasa terlarang, kata nonbaku, dan struktur slop; uji spesifisitas; uji baca nyaring. Teks yang belum lolos tidak boleh diserahkan.
+Alurnya singkat: tentukan kategori, baca aturan inti dan skill kategori, muat referensi yang relevan, lalu tulis dan jalankan pemeriksaan yang sesuai. Tidak perlu membaca semua referensi atau mengulang pemeriksaan yang sama.
 
 ## Dasar rujukan
 
@@ -123,3 +127,9 @@ bahasa-skills/
 ## Pemeliharaan
 
 Daftar kata baku dan padanan istilah mengikuti KBBI/PASTI per Agustus 2026. Jika ragu pada satu lema, rujukan akhirnya selalu kbbi.kemdikbud.go.id, bukan daftar di repo ini.
+
+## Versioning dan rilis
+
+Versi paket berlaku untuk seluruh koleksi skill dan dicatat di `.claude-plugin/plugin.json`; setiap skill tidak diberi nomor versi terpisah. Repo ini mengikuti Semantic Versioning: **patch** untuk perbaikan dan perubahan editorial yang kompatibel, **minor** untuk kemampuan baru yang kompatibel (misalnya dukungan host baru), dan **major** untuk perubahan aturan yang memutus kompatibilitas atau mengubah perilaku secara tidak kompatibel. Catat perubahan penting di [CHANGELOG.md](CHANGELOG.md).
+
+Versi saat ini: **1.3.0**. Untuk rilis berikutnya, pindahkan catatan dari `Unreleased` ke nomor versi dan tanggal rilis, perbarui versi di `plugin.json`, lalu buat tag Git beranotasi `vX.Y.Z` pada commit rilis. Pengguna Codex dan OpenCode dapat mengunci instalasi ke tag itu agar hasil klon dapat direproduksi.
