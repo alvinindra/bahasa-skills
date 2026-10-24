@@ -16,6 +16,8 @@ Temuan metodologis penting: **tidak ada daftar frasa AI berbahasa Indonesia yang
 
 ## Pola struktural (internasional, diadaptasi)
 
+- https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/ [A] · analisis sekitar 490 ribu halaman web berbahasa Inggris; melaporkan pola tingkat korpus seperti tanda baca, frasa, dan paralelisme negatif yang lebih sering muncul dalam korpus teks AI. Ini bukan alat untuk mengidentifikasi satu kalimat, tidak menguji bahasa Indonesia, dan tidak membuktikan bahwa frasa tertentu pasti ditulis AI.
+
 - https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing [P] · sumber utama: paralelisme negatif, rule of three, penghindaran kopula, klausa ekor, atribusi kabur, kesimpulan bergaya outline, Title Case, bold berlebihan, emoji bullet, em dash, jejak alat
 - https://www.forbes.com/sites/jodiecook/2025/09/08/the-10-giveaway-signs-of-ai-writing-wikipedia-reveals/ [S]
 - https://www.makeuseof.com/wikipedia-best-ai-writing-detection-guide/ [S]

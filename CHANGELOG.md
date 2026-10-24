@@ -4,6 +4,12 @@ All notable changes to bahasa-skills are documented here. This project follows [
 
 ## [Unreleased]
 
+### Changed
+
+- Memperjelas bahwa angka, contoh, dan adegan faktual harus bersumber; contoh hook tidak lagi menyarankan angka rekaan.
+- Memperbaiki aturan hook dan CTA media sosial agar pembuka terdengar alami dan ajakan menyimpan sesuai manfaat isi.
+- Menambahkan rujukan riset tentang pola teks AI dengan batasan eksplisit bahwa temuan korpus bahasa Inggris tidak dapat dipakai sebagai detektor kalimat Indonesia.
+
 ## [1.3.0] - 2026-10-25
 
 ### Added

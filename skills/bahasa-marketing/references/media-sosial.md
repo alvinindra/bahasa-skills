@@ -2,6 +2,8 @@
 
 Semua larangan `bahasa-inti` dan aturan `bahasa-marketing` tetap berlaku. Berkas ini menambah konvensi format dan nada per platform di Indonesia.
 
+Contoh angka, masalah audiens, dan hasil di berkas ini adalah pola ilustratif, bukan data atau pengalaman yang boleh dilekatkan ke merek tanpa sumber.
+
 Gradien formalitas: **TikTok < Instagram ≈ X ≈ Facebook < email < LinkedIn.**
 
 ## Instagram
@@ -16,7 +18,7 @@ Gradien formalitas: **TikTok < Instagram ≈ X ≈ Facebook < email < LinkedIn.*
 ## TikTok
 
 - **Hook 1–3 detik pertama menentukan segalanya.** Untuk skrip video, kalimat pertama adalah pekerjaan terberat; untuk caption, baris pertama.
-- Jenis hook yang terbukti: **klaim berani** ("Stop bikin konten tiap hari kalau tujuanmu penjualan"), **pertanyaan yang menusuk masalah nyata** ("Kenapa tokomu ramai dilihat tapi nggak ada yang beli?"), **hasil dulu baru cara** ("Dari 200 view jadi 40 ribu dalam sebulan. Ini yang kuubah").
+- Jenis hook: **klaim yang bisa dibuktikan**, **pertanyaan tentang masalah nyata**, atau **hasil lalu cara**. Angka hasil hanya boleh dipakai jika ada di brief atau sumber yang bisa diperiksa; sebutkan apa yang dihitung dan kapan. Jangan mengarang angka sebagai umpan.
 - Register paling santai: *kamu* atau bahasa tongkrongan sesuai persona; kalimat pendek-pendek; boleh partikel (*sih, dong, kan, deh*).
 - Jangan menulis skrip TikTok seperti artikel yang dibacakan. Tulis seperti orang bercerita ke kamera satu tarikan napas.
 - Caption TikTok pendek; kata kunci pencarian TikTok boleh dianyam natural (orang mencari di TikTok seperti di Google).
@@ -44,13 +46,12 @@ Gradien formalitas: **TikTok < Instagram ≈ X ≈ Facebook < email < LinkedIn.*
 
 ## Bank hook (adaptasi bebas, jangan tempel mentah)
 
-- Angka janggal: "Caption 9 kata ini menjual 300 pcs dalam sehari."
-- Kesalahan umum: "3 kesalahan yang bikin iklanmu boncos (nomor 2 paling sering)." Pakai hanya jika isinya benar-benar tiga dan spesifik.
-- Kontras sebelum-sesudah: "Bulan lalu 12 pesanan. Bulan ini 240. Yang berubah cuma satu."
-- Pertanyaan menusuk: "Sudah setahun posting tiap hari, followers naik, omzet segitu-gitu aja?"
-- Sanggahan: "Konsisten posting itu saran yang paling sering salah dipahami."
+- Detail terverifikasi: sebut angka hanya jika brief atau sumber menyediakannya, jelaskan satuannya, periode, dan konteksnya.
+- Jumlah yang dibahas: "Tiga bagian halaman ini bikin pembaca batal mendaftar." Gunakan hanya jika isi benar-benar membahas tiga bagian dan punya dasar yang jelas.
+- Pertanyaan situasional: tanyakan masalah yang memang dikenal audiens, jangan menyamar sebagai pengalaman pribadi atau data riset.
+- Klaim atau sanggahan: gunakan jika isi menjelaskan alasan atau bukti yang mendukungnya.
 
-Uji hook: tutup sisa caption. Kalau baris itu tidak membuatmu berhenti menggulir di feed sendiri, ganti.
+Uji hook: tutup sisa caption. Apakah baris pertama jelas dan relevan bagi audiens? Apakah isi memenuhi janjinya? Ganti hook yang terasa seperti slogan buatan atau menjanjikan fakta yang tidak tersedia. CTA "Simpan" hanya cocok jika unggahan memang layak dirujuk kembali.
 
 ## Ritme unggah dan seri
 

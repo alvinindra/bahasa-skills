@@ -64,8 +64,8 @@ Toleransi: nol. Satu pelanggaran berarti kalimatnya ditulis ulang. Daftar lengka
 
 Anti-slop bukan cuma menghindari; ini yang harus hadir:
 
-1. **Spesifik di kalimat pertama.** Angka, nama, tempat, kejadian, pertanyaan nyata: sesuatu yang hanya cocok untuk tulisan ini.
-2. **Setiap klaim berjangkar.** Klaim tanpa angka/contoh/nama adalah slot kosong: isi atau hapus. "Lebih cepat" menjadi "dari 14 hari jadi 3 hari".
+1. **Spesifik di kalimat pertama.** Mulai dengan detail topik yang memang diketahui, pertanyaan relevan, atau konteks pembaca. Jangan menciptakan angka, nama, tempat, atau kejadian seolah-olah nyata demi tampak spesifik.
+2. **Setiap klaim faktual punya dasar.** Angka, nama, contoh, dan adegan faktual harus berasal dari materi pengguna atau sumber yang bisa diperiksa; jangan mengarangnya untuk membuat tulisan terasa spesifik. Jika dasar tidak tersedia, tanyakan, nyatakan batas pengetahuan, atau hapus klaim. Tidak semua kalimat perlu angka atau contoh.
 3. **Verba kuat, bukan bungkus nomina.** *Melakukan analisis* menjadi *menganalisis*; *memberikan penjelasan* menjadi *menjelaskan*; *mengalami peningkatan* menjadi *naik*. (Di ragam ilmiah nominalisasi kadang wajar; lihat `bahasa-peneliti`.)
 4. **Kalimat aktif sebagai bawaan.** Pasif hanya jika pelaku memang tak penting atau tak diketahui.
 5. **Panjang kalimat bervariasi.** Deret kalimat 15–20 kata semua adalah ritme mesin. Selingi kalimat pendek. Sangat pendek juga boleh.
@@ -95,7 +95,7 @@ Jalankan pada draf final sesuai tugas. Lewati butir yang tidak relevan dan hinda
 1. **Pindai frasa terlarang** (L1 sampai L9, plus daftar lengkap di references). Satu temuan pun: tulis ulang kalimatnya, bukan sekadar menghapus frasanya.
 2. **Pindai kata nonbaku dan "di mana/yang mana"** sebagai penghubung. Cek juga *di-/di* dan *sosial media* yang seharusnya *media sosial*.
 3. **Format:** ada em dash (—)? Dalam ragam resmi/konsultatif, ganti semuanya dengan "sampai" untuk rentang atau tanda baca yang sesuai. Dalam ragam lain, em dash hanya boleh untuk rentang angka/tempat. Periksa juga transisi klise, tripel kata sifat, emoji hias, dan bold berlebihan.
-4. **Uji jangkar:** tiap klaim punya angka, nama, atau contoh? Yang tidak punya: isi atau hapus.
+4. **Uji dasar klaim:** apakah setiap angka, nama, contoh, dan adegan faktual bersumber? Jika tidak, verifikasi, tanyakan, atau hapus. Jangan menambahkan detail rekaan demi memenuhi pemeriksaan ini.
 5. **Uji hapus:** hapus kalimat pertama dan terakhir dalam pikiran. Kalau makna utuh, keduanya memang harus dihapus.
 6. **Uji baca nyaring:** adakah kalimat yang janggal diucapkan? Tulis ulang seperti menjelaskan ke satu orang nyata.
 7. **Uji konsistensi:** satu sapaan, satu istilah per konsep, ragam seragam dari judul sampai tombol/penutup.

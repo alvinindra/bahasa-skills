@@ -78,3 +78,8 @@ Dipakai untuk: bahasa-marketing (sapaan/register, konvensi platform, CTA, aturan
 3. Angka caption/hashtag Instagram berasal dari blog [S] tanpa sitasi primer; hanya "±125 karakter sebelum tombol more" yang merupakan perilaku produk yang dapat diverifikasi.
 4. Nomor pasal EPI tidak diverifikasi dari dokumen resmi; isi ketentuannya konsisten lintas sumber akademik, jadi dirujuk sebagai "ketentuan EPI tentang bahasa" tanpa nomor pasal.
 5. Klaim "87% konsumen menyukai brand yang konsisten" tidak bersitasi primer; tidak dipakai di skill.
+# Rujukan hook, isi, dan CTA media sosial
+
+- https://www.socialmediatoday.com/news/instagram-stresses-the-importance-of-captions/828554/ [S] · laporan sekunder atas saran Instagram: caption sebaiknya membuka dengan baris kuat, memberi cerita atau informasi berguna, lalu mengarahkan pembaca dengan CTA yang jelas. Pakai sebagai panduan struktur, bukan rumus wajib atau bukti bahwa satu gaya caption selalu unggul.
+- https://bpt.komdigi.go.id/Publikasi/detail/teknik-menguasai-copywriting-tiga-formula-terkenal-yang-harus-anda-ketahui [P] · BPPTIK Komdigi menjelaskan AIDA: perhatian perlu diikuti minat, yang dapat dibangun lewat fakta, data, kasus, atau alasan. Ini mendukung pemeriksaan bahwa isi benar-benar memenuhi janji hook.
+

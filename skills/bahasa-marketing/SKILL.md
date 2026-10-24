@@ -7,7 +7,7 @@ description: "Menulis materi pemasaran berbahasa Indonesia yang menjual tanpa te
 
 Skill ini menumpuk di atas `bahasa-inti`: seluruh larangan dan pemeriksaan di sana tetap berlaku penuh. Kalau folder `../bahasa-inti/references/` tersedia, baca [frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md) sebelum menulis; frasa pemasaran kosong ("solusi terbaik untuk kebutuhan Anda", "bawa bisnis ke level berikutnya") ada di sana dan haram di sini.
 
-Prinsip dasarnya: **copy yang menjual itu spesifik.** Pembaca tidak membeli "kualitas terbaik"; mereka membeli "tayang dalam 14 hari" dan "gratis ongkir sampai Jumat". Slop pemasaran adalah janji yang bisa diucapkan kompetitor mana pun.
+Prinsip dasarnya: **copy yang menjual itu spesifik dan jujur.** Detail harus berasal dari brief, materi produk, atau sumber yang bisa diperiksa. Jangan mengarang angka, tenggat, testimoni, atau adegan seolah-olah itu kejadian nyata. Kalau belum ada bukti, minta datanya atau tulis tanpa klaim tersebut. Spesifik bisa berarti menyebut situasi pembaca, langkah yang bisa dilakukan, atau detail produk yang memang diketahui; angka bukan syarat.
 
 ## Lima keputusan sebelum menulis
 
@@ -34,8 +34,8 @@ Gradien formalitas antarplatform (paling santai ke paling formal): **TikTok < In
 
 1. **Manfaat dulu, fitur belakangan.** Fitur adalah apa yang produk punya; manfaat adalah apa yang berubah bagi pembeli. "RAM 8 GB" menjadi "buka 20 tab tanpa macet".
 2. **Superlatif tanpa bukti itu dilarang. Bukan cuma jelek, tapi melanggar Etika Pariwara Indonesia.** *Terbaik, termurah, no. 1, paling…* hanya boleh dengan bukti yang bisa dipertanggungjawabkan dan disebutkan ("terlaris kategori skincare di Tokopedia, Juni 2026"). Garnier pernah kena kasus persis karena "No 1 Micellar Water di Indonesia" tanpa sumber. Tanpa data: ganti klaim spesifik yang benar.
-3. **Angka mengalahkan kata sifat.** "Cepat banget" kalah dari "3 menit". "Hemat" kalah dari "Rp120 ribu lebih murah per bulan".
-4. **Hook di baris pertama.** Di feed, hanya 1–2 baris pertama yang terbaca sebelum "…more". Baris pertama harus membuat orang berhenti: angka janggal, pertanyaan yang menusuk masalah nyata, klaim yang bisa dibuktikan.
+3. **Pakai angka hanya jika ada dasarnya.** Angka mengalahkan kata sifat hanya ketika angka itu benar, relevan, dan jelas mengukur apa. Jangan membuat angka tampak janggal demi menarik perhatian.
+4. **Hook di baris pertama.** Di feed, hanya 1–2 baris pertama yang terbaca sebelum "…more". Mulai dari masalah yang benar-benar dialami audiens, detail berguna, atau klaim yang bisa dibuktikan. Hook tidak harus berupa slogan, permainan kontras, atau kalimat pendek berpasangan.
 5. **Tulis seperti bicara.** Uji baca nyaring lebih penting di marketing daripada di mana pun: kalau tidak akan kamu ucapkan ke teman, jangan tulis.
 6. **Urgensi hanya yang nyata.** Tenggat dan stok boleh disebut kalau benar. "Buruan sebelum kehabisan!" tanpa dasar adalah slop sekaligus bohong.
 
@@ -66,6 +66,8 @@ Ukuran tunggalnya kejelasan, bukan gengsi. Ivan Lanin: campur kode diterima di l
 
 ## Contoh transformasi
 
+Angka, harga, hasil, dan detail produk dalam contoh berikut hanya ilustrasi pola. Jangan salin sebagai fakta untuk merek atau produk lain tanpa memeriksa brief atau sumbernya.
+
 **Caption Instagram (jasa pembuatan situs):**
 
 > ❌ "🚀 Di era digital yang serba cepat ini, kehadiran online sangatlah penting bagi bisnis Anda! Yuk, tingkatkan brand awareness kamu ke level berikutnya bersama kami! 💯 Jangan sampai ketinggalan! #bisnis #digital #sukses #marketing #umkm #website #indonesia"
@@ -87,9 +89,11 @@ Setelah pemeriksaan wajib `bahasa-inti`:
 1. Ada berapa CTA? Harus satu.
 2. Sapaan tercampur? Perbaiki.
 3. Setiap klaim unggul punya bukti yang disebutkan? Superlatif tanpa data harus ditulis ulang.
-4. Baris pertama: kalau sisanya ditutup, masih membuat orang berhenti menggulir?
-5. Hashtag ≤5 dan spesifik; emoji ≤3 dan bermakna?
-6. Bisakah kompetitor menempel logo mereka di copy ini tanpa terasa aneh? Kalau ya, belum cukup spesifik.
+4. Apakah angka, bukti, dan adegan yang terdengar faktual benar-benar ada di brief atau sumber? Hapus atau tandai asumsi yang belum diverifikasi.
+5. Baca baris pertama nyaring. Apakah terdengar seperti orang sungguhan menyampaikan hal yang relevan, atau seperti slogan yang dirakit agar terdengar tajam? Pastikan isi memenuhi janji hook.
+6. Apakah CTA cocok dengan manfaat isi? Minta orang menyimpan unggahan hanya jika isinya berguna sebagai rujukan nanti; selain itu pilih tindakan yang relevan atau hilangkan CTA.
+7. Hashtag ≤5 dan spesifik; emoji ≤3 dan bermakna?
+8. Bisakah kompetitor menempel logo mereka di copy ini tanpa terasa aneh? Kalau ya, belum cukup spesifik.
 
 ## Referensi
 
