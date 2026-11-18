@@ -20,7 +20,8 @@ Semua pembuka di bawah bisa menempel pada topik apa pun. Itulah buktinya mereka 
 | Di tengah hiruk pikuk … | Hapus; "hiruk pikuk" terlarang total |
 | Seperti yang kita ketahui (bersama), … | Hapus; kalau semua tahu, tak perlu ditulis |
 | Penting untuk dipahami/diketahui bahwa … | Hapus; langsung isinya |
-| Pernahkah Anda bertanya-tanya …? | Pertanyaan spesifik dengan detail nyata, atau hapus |
+| Pernahkah Anda bertanya-tanya …? / Pernahkah Anda merasa …? | Pertanyaan spesifik dengan detail nyata, atau hapus |
+| Tahukah Anda/kamu bahwa …? | Sebut faktanya langsung, atau hapus bila hanya basa-basi |
 | Siapa yang tidak mengenal …? | Hapus |
 | Mari kita menyelami/telusuri lebih dalam … | Hapus; langsung bahas |
 | Sebelum membahas lebih lanjut, mari kita pahami dulu apa itu X | Definisikan X dalam satu kalimat langsung |
@@ -72,6 +73,8 @@ Kuota: masing-masing maksimal **satu kali per teks**, dan tak boleh dua paragraf
 |---|---|
 | solusi terbaik untuk (segala) kebutuhan Anda | Masalah spesifik yang diselesaikan |
 | solusi lengkap/terpercaya/all-in-one/jitu | Fitur dan angkanya |
+| kini hadir… / telah hadir… (sebagai solusi / menjawab kebutuhan) | Langsung sebut nama produk dan tindakannya |
+| tak perlu pusing/khawatir lagi | Tunjukkan perubahan konkret keadaan sebelum vs sesudah |
 | bawa X Anda ke level berikutnya | Hasil terukur ("dari … jadi …") |
 | membuka/memaksimalkan potensi (penuh) | Apa yang jadi mungkin, konkret |
 | dirancang khusus untuk memenuhi kebutuhan Anda | Untuk siapa persisnya |
@@ -79,6 +82,7 @@ Kuota: masing-masing maksimal **satu kali per teks**, dan tak boleh dua paragraf
 | meningkatkan efisiensi dan produktivitas | Berapa persen, pada proses apa |
 | kualitas terbaik dengan harga terjangkau | Sebut harganya |
 | pilihan tepat bagi Anda / wajib dicoba / wajib diketahui | Hapus |
+| pilihan cerdas / investasi terbaik untuk masa depan Anda | Biarkan pembeli menyimpulkan dari bukti/angka |
 | pengalaman yang tak terlupakan | Deskripsi konkret pengalamannya |
 | tanpa hambatan / mulus tanpa kendala / terintegrasi dengan mulus | Langkah yang dihilangkan; apa terhubung ke apa |
 | revolusioner / terobosan baru / game changer / pengubah permainan | Apa persisnya yang baru |
@@ -86,8 +90,24 @@ Kuota: masing-masing maksimal **satu kali per teks**, dan tak boleh dua paragraf
 | sangat krusial / berperan vital | "penting" + konsekuensinya, atau hapus |
 | mercusuar harapan | Hapus |
 | menjadi bukti nyata komitmen kami | Hapus; tunjukkan lewat fakta |
+| siap menemani (hari-hari Anda / setiap langkah perjalanan Anda) | Fokus pada fungsi dan manfaat nyata produk |
+| rasakan perbedaannya / rasakan sensasi / rasakan pengalaman | Deskripsikan rasa, hasil, atau sensasi konkret |
+| bayangkan jika Anda bisa… / bayangkan betapa… | Lukiskan situasi nyata langsung tanpa kata pengantar mengawang |
+| jangan lewatkan kesempatan emas ini / promo menarik ini | Sebut tenggat, kuota, atau batas diskon nyata |
+| memberikan sentuhan (elegan / personal / magis / modern) | Sebut bahan, warna, atau fitur desain spesifik |
+| mitra setia / partner terpercaya dalam perjalanan bisnis Anda | Sebut layanan dan rekam jejak konkret |
+| didesain dengan sepenuh hati / dibuat khusus dengan cinta | Tunjukkan mutu lewat bahan, standar uji, atau garansi |
+| mempermudah hidup Anda / membuat hari-hari lebih berwarna | Sebut kerepotan atau tugas spesifik yang dipangkas |
+| langkah awal menuju kesuksesan bisnis Anda | Hapus janji mengawang-awang |
+| temukan kenyamanan yang belum pernah ada sebelumnya | Deskripsi konkret aspek kenyamanannya |
 
 ## 5. Pola kalimat khas mesin
+
+**Jembatan solusi robotik (robot bridge).** Pola klise menghubungkan masalah ke produk:
+
+- "Menghadapi masalah tersebut, kini X hadir sebagai solusi tepat untuk…"
+- "Namun Anda tak perlu khawatir, karena X siap menjawab keresahan Anda…"
+- Perbaikan: hapus jembatannya, langsung sebut produk dan aksinya (misal: "Mulai hari ini, Kasirin langsung rekap omzet harian ke ponselmu").
 
 **Paralelisme negatif**, pola kalimat AI nomor satu. Larang semua variannya:
 

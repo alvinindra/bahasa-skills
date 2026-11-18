@@ -38,13 +38,21 @@ Gradien formalitas antarplatform (paling santai ke paling formal): **TikTok < In
 4. **Hook di baris pertama.** Di feed, hanya 1–2 baris pertama yang terbaca sebelum "…more". Mulai dari masalah yang benar-benar dialami audiens, detail berguna, atau klaim yang bisa dibuktikan. Hook tidak harus berupa slogan, permainan kontras, atau kalimat pendek berpasangan.
 5. **Tulis seperti bicara.** Uji baca nyaring lebih penting di marketing daripada di mana pun: kalau tidak akan kamu ucapkan ke teman, jangan tulis.
 6. **Urgensi hanya yang nyata.** Tenggat dan stok boleh disebut kalau benar. "Buruan sebelum kehabisan!" tanpa dasar adalah slop sekaligus bohong.
+7. **Haram jembatan solusi klise (*robot bridges*).** Menghubungkan masalah ke produk dengan kalimat bot seperti *"Kini hadir [Produk] untuk menjawab kebutuhan Anda"*, *"Hadir sebagai solusi praktis"*, atau *"Kini kamu tak perlu pusing/khawatir lagi"* merusak keterbacaan copy. Langsung sambungkan ke aksi produk atau perubahan kondisi nyata.
+8. **Jangkar adegan nyata, bukan pengandaian kosong.** Jangan membuka atau mengisi materi dengan *"Bayangkan jika Anda bisa..."* tanpa detail indrawi atau situasi konkret. Pembaca Indonesia lebih terhubung dengan skenario nyata sehari-hari daripada angan-angan abstrak terjemahan bot.
 
 ## Larangan tambahan (di atas larangan inti)
 
 | Terlarang | Kenapa / ganti |
 |---|---|
 | "Yuk, simak ulasannya!", "Simak sampai habis!" | Pengisi tanpa isi; langsung ke isi |
-| "Jangan sampai ketinggalan!", "Tunggu apa lagi?" | Urgensi kosong; ganti tenggat/stok nyata |
+| "Jangan sampai ketinggalan!", "Tunggu apa lagi?", "Jangan lewatkan kesempatan emas ini" | Urgensi kosong; ganti tenggat/stok/kuota nyata |
+| "Kini hadir…", "Hadir sebagai solusi…", "Menjawab kebutuhan…" | Jembatan robotik; sebut produk dan tindakannya secara langsung |
+| "Tak perlu pusing/khawatir lagi…" | Jembatan malas; tunjukkan perubahan keadaan konkret sebelum vs sesudah |
+| "Bayangkan jika Anda bisa…", "Bayangkan betapa indahnya…" | Pengandaian mengawang-awang; gunakan adegan spesifik yang dialami pembaca |
+| "Siap menemani hari-hari Anda / setiap langkah Anda" | Klise metaforis; fokus pada fungsi dan manfaat nyata produk |
+| "Rasakan perbedaannya / sensasinya / pengalamannya" | Verba generik penutup; sebut rasa, hasil, atau perubahan spesifik |
+| "Pilihan cerdas / investasi terbaik untuk masa depan Anda" | Label diri kosong; biarkan pembeli menyimpulkan dari bukti/angka |
 | "Halo Sobat …!" (generik) | Sapaan komunitas hanya milik merek yang memakainya |
 | Emoji bertubi (🚀✨🔥💯) atau emoji sebagai bullet | Maksimal 2–3 per caption, hanya bila menambah nada |
 | Hashtag dump (>5, atau hashtag generik #fyp #viral) | 3–5 hashtag spesifik; rincian di media-sosial.md |
@@ -90,14 +98,16 @@ Setelah pemeriksaan wajib `bahasa-inti`:
 2. Sapaan tercampur? Perbaiki.
 3. Setiap klaim unggul punya bukti yang disebutkan? Superlatif tanpa data harus ditulis ulang.
 4. Apakah angka, bukti, dan adegan yang terdengar faktual benar-benar ada di brief atau sumber? Hapus atau tandai asumsi yang belum diverifikasi.
-5. Baca baris pertama nyaring. Apakah terdengar seperti orang sungguhan menyampaikan hal yang relevan, atau seperti slogan yang dirakit agar terdengar tajam? Pastikan isi memenuhi janji hook.
-6. Apakah CTA cocok dengan manfaat isi? Minta orang menyimpan unggahan hanya jika isinya berguna sebagai rujukan nanti; selain itu pilih tindakan yang relevan atau hilangkan CTA.
-7. Hashtag ≤5 dan spesifik; emoji ≤3 dan bermakna?
-8. Bisakah kompetitor menempel logo mereka di copy ini tanpa terasa aneh? Kalau ya, belum cukup spesifik.
+5. Adakah jembatan solusi klise bot ("Kini hadir...", "Menjawab kebutuhan...", "Tak perlu pusing lagi")? Tulis ulang secara langsung.
+6. Adakah pengandaian mengawang-awang ("Bayangkan jika Anda...") tanpa situasi konkret?
+7. Baca baris pertama nyaring. Apakah terdengar seperti orang sungguhan menyampaikan hal yang relevan, atau seperti slogan yang dirakit agar terdengar tajam? Pastikan isi memenuhi janji hook.
+8. Apakah CTA cocok dengan manfaat isi? Minta orang menyimpan unggahan hanya jika isinya berguna sebagai rujukan nanti; selain itu pilih tindakan yang relevan atau hilangkan CTA.
+9. Hashtag ≤5 dan spesifik; emoji ≤3 dan bermakna?
+10. Bisakah kompetitor menempel logo mereka di copy ini tanpa terasa aneh? Kalau ya, belum cukup spesifik.
 
 ## Referensi
 
 | Berkas | Isi | Baca ketika |
 |---|---|---|
-| [references/media-sosial.md](references/media-sosial.md) | Konvensi per platform: hook, panjang, hashtag, nada; bank hook | Menulis caption/konten IG, TikTok, X, LinkedIn, Facebook |
-| [references/copywriting.md](references/copywriting.md) | Kerangka AIDA/PAS/BAB, bank CTA, aturan EPI, email marketing, 13 kesalahan umum | Menulis iklan, email, landing copy promosi, naskah penjualan |
+| [references/media-sosial.md](references/media-sosial.md) | Konvensi per platform: hook, panjang, hashtag, nada; perbandingan hook AI vs manusia | Menulis caption/konten IG, TikTok, X, LinkedIn, Facebook |
+| [references/copywriting.md](references/copywriting.md) | Kerangka AIDA/PAS/BAB/HSO/FAB, jembatan anti-bot, bank CTA, aturan EPI, email, 15 kesalahan | Menulis iklan, email, landing copy promosi, naskah penjualan |

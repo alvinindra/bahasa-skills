@@ -128,8 +128,3 @@ bahasa-skills/
 
 Daftar kata baku dan padanan istilah mengikuti KBBI/PASTI per Agustus 2026. Jika ragu pada satu lema, rujukan akhirnya selalu kbbi.kemdikbud.go.id, bukan daftar di repo ini.
 
-## Versioning dan rilis
-
-Versi paket berlaku untuk seluruh koleksi skill dan dicatat di `.claude-plugin/plugin.json`; setiap skill tidak diberi nomor versi terpisah. Repo ini mengikuti Semantic Versioning: **patch** untuk perbaikan dan perubahan editorial yang kompatibel, **minor** untuk kemampuan baru yang kompatibel (misalnya dukungan host baru), dan **major** untuk perubahan aturan yang memutus kompatibilitas atau mengubah perilaku secara tidak kompatibel. Catat perubahan penting di [CHANGELOG.md](CHANGELOG.md).
-
-Versi saat ini: **1.3.0**. Untuk rilis berikutnya, pindahkan catatan dari `Unreleased` ke nomor versi dan tanggal rilis, perbarui versi di `plugin.json`, lalu buat tag Git beranotasi `vX.Y.Z` pada commit rilis. Pengguna Codex dan OpenCode dapat mengunci instalasi ke tag itu agar hasil klon dapat direproduksi.

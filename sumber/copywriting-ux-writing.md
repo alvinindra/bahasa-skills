@@ -82,4 +82,5 @@ Dipakai untuk: bahasa-marketing (sapaan/register, konvensi platform, CTA, aturan
 
 - https://www.socialmediatoday.com/news/instagram-stresses-the-importance-of-captions/828554/ [S] · laporan sekunder atas saran Instagram: caption sebaiknya membuka dengan baris kuat, memberi cerita atau informasi berguna, lalu mengarahkan pembaca dengan CTA yang jelas. Pakai sebagai panduan struktur, bukan rumus wajib atau bukti bahwa satu gaya caption selalu unggul.
 - https://bpt.komdigi.go.id/Publikasi/detail/teknik-menguasai-copywriting-tiga-formula-terkenal-yang-harus-anda-ketahui [P] · BPPTIK Komdigi menjelaskan AIDA: perhatian perlu diikuti minat, yang dapat dibangun lewat fakta, data, kasus, atau alasan. Ini mendukung pemeriksaan bahwa isi benar-benar memenuhi janji hook.
+- Panduan anti-robot-bridge dan kerangka HSO (Hook, Story, Offer) / FAB (Feature, Advantage, Benefit): dirumuskan dari analisis atas pola keluaran copywriting AI yang kerap memunculkan jembatan klise ("kini hadir sebagai solusi", "tak perlu khawatir lagi", "siap menemani") dan menggantinya dengan aksi langsung (*action-first*) serta kontras kondisi nyata (*before vs after*).
 

@@ -17,7 +17,31 @@ Kerangka membantu menyusun, tetapi **nama kerangka tidak boleh muncul di output*
 
 **BAB** (*Before-After-Bridge*), untuk cerita transformasi: kondisi sebelum, lalu sesudah, lalu jembatannya (produk). Kuat untuk testimoni dan studi kasus.
 
+**HSO** (*Hook-Story-Offer*), format dominan konten media sosial, video pendek, dan email personal di Indonesia:
+1. *Hook*: 1–2 kalimat pertama yang menghentikan scroll (masalah relate, fakta mengejutkan, atau kontras tajam).
+2. *Story*: situasi atau adegan mikro singkat (1–3 kalimat) yang membuat pembaca merasa dipahami; bukan dongeng fiktif panjang.
+3. *Offer*: bagaimana produk mengatasi situasi tersebut + manfaat nyata + satu CTA jelas.
+
+**FAB** (*Feature-Advantage-Benefit*), untuk deskripsi produk dan landing page:
+1. *Feature*: apa yang dimiliki produk (spesifikasi/kemampuan).
+2. *Advantage*: keunggulan langsung dibanding alternatif yang lazim.
+3. *Benefit*: dampak nyata bagi hidup atau bisnis pembeli (hemat waktu, tenang, uang utuh).
+
 Uji anti-formulir: setelah menulis, baca tanpa mengingat kerangkanya. Kalau tiap paragraf terasa seperti mengisi slot ("ini bagian agitasi"), tulis ulang jadi cerita utuh.
+
+## Menjembatani masalah ke solusi tanpa slop (jembatan anti-bot)
+
+Kelemahan paling kentara pada copywriting buatan AI adalah jembatan transisi yang malas dan seragam. Hindari kalimat klise mesin (*"Kini telah hadir X sebagai solusi jitu..."*, *"Kini Anda tak perlu khawatir lagi..."*). Gunakan tiga cara manusiawi ini:
+
+1. **Aksi langsung (*Action-first*):** Langsung sebut nama produk dan tindakan yang dilakukannya.
+   - ❌ *"Melihat masalah pembukuan di atas, kini aplikasi Kasirin hadir untuk menjawab kebutuhan para pemilik UMKM."*
+   - ✅ *"Mulai hari ini, Kasirin langsung merekap omzet harian ke ponselmu tanpa perlu buku catatan."*
+2. **Kontras kondisi (*Before vs After*):** Tunjukkan perubahan nyata pada situasi pembaca.
+   - ❌ *"Tak perlu pusing lagi dengan antrean kasir yang mengular karena kami menghadirkan kemudahan transaksi."*
+   - ✅ *"Dulu jam makan siang kasir selalu sibuk cari uang kembalian. Sekarang pembeli tinggal scan QRIS, uang pas langsung masuk."*
+3. **Mekanisme wajar:** Jelaskan fungsi produk tanpa memuji diri sendiri dengan kata sifat muluk.
+   - ❌ *"Inilah bukti nyata komitmen kami dalam menghadirkan solusi terbaik bagi Anda."*
+   - ✅ *"Semua pesanan otomatis tersambung ke printer dapur begitu tombol bayar ditekan."*
 
 ## Bank CTA
 
@@ -55,7 +79,7 @@ Praktiknya:
 - Paragraf 1–3 kalimat; email panjang harus layak panjangnya (cerita/studi kasus), bukan padding.
 - Kaki email transaksional: jelas, tanpa basa-basi; sertakan langkah kalau terjadi masalah ("Tidak merasa memesan? Balas email ini.").
 
-## 13 kesalahan copywriting yang paling sering (temuan praktisi Indonesia)
+## 15 kesalahan copywriting yang paling sering (temuan praktisi Indonesia)
 
 1. Bertele-tele; kalimat panjang tanpa struktur, pembaca kabur.
 2. Tidak jelas menulis untuk siapa.
@@ -70,6 +94,8 @@ Praktiknya:
 11. Terjemahan kaku dari Inggris ("dapatkan pengalaman terbaikmu").
 12. Superlatif tanpa bukti (pelanggaran EPI).
 13. Copy yang bisa dipakai kompetitor mana pun: nol spesifisitas.
+14. Jembatan solusi robotik ("Kini hadir X sebagai solusi untuk menjawab kebutuhan Anda").
+15. Pengandaian mengawang-awang ("Bayangkan jika Anda...") tanpa situasi konkret yang dialami pembaca.
 
 ## Contoh transformasi
 

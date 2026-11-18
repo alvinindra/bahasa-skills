@@ -46,12 +46,23 @@ Gradien formalitas: **TikTok < Instagram ≈ X ≈ Facebook < email < LinkedIn.*
 
 ## Bank hook (adaptasi bebas, jangan tempel mentah)
 
-- Detail terverifikasi: sebut angka hanya jika brief atau sumber menyediakannya, jelaskan satuannya, periode, dan konteksnya.
-- Jumlah yang dibahas: "Tiga bagian halaman ini bikin pembaca batal mendaftar." Gunakan hanya jika isi benar-benar membahas tiga bagian dan punya dasar yang jelas.
-- Pertanyaan situasional: tanyakan masalah yang memang dikenal audiens, jangan menyamar sebagai pengalaman pribadi atau data riset.
-- Klaim atau sanggahan: gunakan jika isi menjelaskan alasan atau bukti yang mendukungnya.
+Hook yang kuat berhenti di masalah nyata, pertanyaan menusuk, atau fakta pembuka, bukan slogan buatan atau basa-basi robotik.
+
+| Pola Hook | ❌ Slop AI Klise | ✅ Human Copy Berbobot |
+|---|---|---|
+| **Masalah / Keresahan** | "Pernahkah Anda merasa kesulitan dalam mengelola keuangan bisnis Anda? Yuk simak tipsnya!" | "Uang kas masuk Rp50 juta, tapi pas dicek saldo akhir bulan tinggal Rp2 juta. Lari ke mana?" |
+| **Fakta / Bukti** | "Tahukah Anda bahwa kehadiran digital sangat penting untuk kesuksesan usaha Anda saat ini?" | "Toko sebelah sudah muncul di halaman satu Google. Tokomu di halaman berapa?" |
+| **Pengumuman Fitur** | "Kabar gembira! Kini telah hadir fitur QRIS yang siap merevolusi transaksi bisnis Anda!" | "Ada pembeli pegang HP, bukan dompet: 'Bisa bayar QRIS?' Mulai hari ini kamu tinggal jawab: bisa." |
+| **Edukasi / Tips** | "Di era modern ini, kita harus tahu 5 tips penting dalam memilih laptop untuk kerja." | "Tiga spesifikasi laptop yang sering bikin pembeli nyesel setelah 6 bulan pakai." |
+| **Karier / B2B** | "Sebagai profesional, membuka potensi penuh diri Anda adalah kunci meraih masa depan cerah." | "Satu kesalahan di CV yang paling sering bikin lamaran manajer gugur di 10 detik pertama." |
 
 Uji hook: tutup sisa caption. Apakah baris pertama jelas dan relevan bagi audiens? Apakah isi memenuhi janjinya? Ganti hook yang terasa seperti slogan buatan atau menjanjikan fakta yang tidak tersedia. CTA "Simpan" hanya cocok jika unggahan memang layak dirujuk kembali.
+
+## Skrip video singkat (TikTok, Reels, Shorts)
+
+1. **3 detik pertama menentukan retensi:** Mulai langsung dari audio + visual masalah atau aksi. Jangan gunakan intro logo, jangan buka dengan salam klise (*"Halo guys, kembali lagi sama gue..."*).
+2. **On-screen text sinkron:** Teks di layar harus memperkuat 1–2 kalimat pembuka, bukan teks berjalan yang menumpuk.
+3. **Pacing percakapan:** Tulis kalimat pendek berirama cepat seperti orang yang berbicara langsung ke kamera dalam satu tarikan napas, bukan artikel yang dibacakan.
 
 ## Ritme unggah dan seri
 

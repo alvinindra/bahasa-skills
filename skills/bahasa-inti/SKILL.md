@@ -48,7 +48,7 @@ Toleransi: nol. Satu pelanggaran berarti kalimatnya ditulis ulang. Daftar lengka
 
 **L4. Tripel kosong (rule of three).** "Cepat, mudah, dan terjangkau", "aman, nyaman, dan terpercaya". Tiga kata sifat beruntun hampir selalu berarti tak satu pun dipikirkan. Pilih satu yang paling benar, atau ganti dengan bukti.
 
-**L5. Kosakata slop.** Kata yang melonjak karena mesin, bukan karena penutur: **hiruk pikuk** (penanda ChatGPT paling dikenali di Indonesia; jangan pernah dipakai), *lanskap* (kiasan), *ranah*, *krusial*, *menyelami*, *menggarisbawahi*, *menyoroti* (kiasan), *mulus/tanpa hambatan*, *tangguh* (untuk produk), *garda terdepan*, *mercusuar*, *jalinan/permadani* (kiasan), *membuka potensi*, *bukti nyata komitmen*, *game changer*. Padanannya ada di daftar lengkap.
+**L5. Kosakata slop.** Kata yang melonjak karena mesin, bukan karena penutur: **hiruk pikuk** (penanda ChatGPT paling dikenali di Indonesia; jangan pernah dipakai), *lanskap* (kiasan), *ranah*, *krusial*, *menyelami*, *menggarisbawahi*, *menyoroti* (kiasan), *mulus/tanpa hambatan*, *tangguh* (untuk produk), *garda terdepan*, *mercusuar*, *jalinan/permadani* (kiasan), *membuka potensi*, *bukti nyata komitmen*, *game changer*, serta jembatan pemasaran klise (*kini hadir sebagai solusi*, *tak perlu khawatir lagi*, *siap menemani*). Padanannya ada di daftar lengkap.
 
 **L6. Transisi klise beruntun.** *Selain itu, Tidak hanya itu, Namun demikian, Oleh karena itu, Dengan demikian, Di sisi lain, Selanjutnya*: masing-masing maksimal satu kali per teks, dan jangan pernah dua paragraf berturut-turut dibuka kata transisi. Paragraf yang urutannya benar tersambung lewat isi, bukan lewat lem.
 

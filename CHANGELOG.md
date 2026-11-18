@@ -4,8 +4,16 @@ All notable changes to bahasa-skills are documented here. This project follows [
 
 ## [Unreleased]
 
+### Added
+
+- Alur otomatisasi GitHub Actions (`.github/workflows/release.yml`) agar setiap commit yang dipush ke cabang `main` otomatis memperbarui tag rilis Git (`vX.Y.Z` dan `latest`) serta GitHub Release.
+- Kerangka HSO (*Hook-Story-Offer*) dan FAB (*Feature-Advantage-Benefit*) pada referensi copywriting pemasaran.
+- Panduan jembatan anti-bot (*anti-robot bridges*) dan tabel perbandingan hook AI vs manusia (masalah, angka, fitur, edukasi, B2B) pada referensi media sosial.
+
 ### Changed
 
+- Menghapus bagian versioning dan rilis dari `README.md` sehingga dokumentasi perubahan sepenuhnya berada di `CHANGELOG.md`.
+- Memperluas daftar frasa pemasaran terlarang (L5 dan `frasa-terlarang.md`) untuk menangkal slop khas AI marketing seperti "kini hadir sebagai solusi", "tak perlu khawatir lagi", "siap menemani langkah Anda", "rasakan perbedaannya", dan pengandaian mengawang "bayangkan jika".
 - Memperjelas bahwa angka, contoh, dan adegan faktual harus bersumber; contoh hook tidak lagi menyarankan angka rekaan.
 - Memperbaiki aturan hook dan CTA media sosial agar pembuka terdengar alami dan ajakan menyimpan sesuai manfaat isi.
 - Menambahkan rujukan riset tentang pola teks AI dengan batasan eksplisit bahwa temuan korpus bahasa Inggris tidak dapat dipakai sebagai detektor kalimat Indonesia.
