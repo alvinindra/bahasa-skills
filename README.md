@@ -4,7 +4,7 @@
 
 # bahasa-skills
 
-Paket skill untuk Claude Code, Codex, dan OpenCode untuk menulis bahasa Indonesia yang bermutu: diksi tepat, kaidah benar, ragam sesuai situasi, dan **bebas AI slop** (frasa klise, struktur generik, serta kosakata khas keluaran mesin).
+Paket skill untuk Claude Code, Antigravity, Codex, dan OpenCode untuk menulis bahasa Indonesia yang bermutu: diksi tepat, kaidah benar, ragam sesuai situasi, dan **bebas AI slop** (frasa klise, struktur generik, serta kosakata khas keluaran mesin).
 
 Repo: https://github.com/alvinindra/bahasa-skills
 
@@ -77,6 +77,19 @@ claude plugin marketplace add alvinindra/bahasa-skills
 
 Lalu di sesi Claude Code jalankan `/plugin install bahasa-skills@bahasa-skills`.
 
+**Antigravity: instalasi global atau per proyek.** Antigravity mendukung format standar Agent Skills. Pasang secara global atau khusus workspace proyek:
+
+- *Global (tersedia untuk semua proyek di komputer):*
+  ```bash
+  mkdir -p "$HOME/.gemini/antigravity/skills"
+  git clone https://github.com/alvinindra/bahasa-skills.git "$HOME/.gemini/antigravity/skills/bahasa-skills"
+  ```
+- *Khusus proyek (workspace):*
+  ```bash
+  mkdir -p .agents/skills
+  git clone https://github.com/alvinindra/bahasa-skills.git .agents/skills/bahasa-skills
+  ```
+
 **Codex: instalasi global.** Codex menemukan `SKILL.md` di bawah `~/.agents/skills/`. Klon repo di sana agar pemandu dan skill kategori tersedia:
 
 ```bash
@@ -91,7 +104,7 @@ mkdir -p .agents/skills
 git clone https://github.com/alvinindra/bahasa-skills.git .agents/skills/bahasa-skills
 ```
 
-Codex dan OpenCode sama-sama membaca format `SKILL.md` dari direktori `.agents/skills/`. Untuk Claude Code tanpa plugin, salin folder skill yang diperlukan ke `.claude/skills/`; sertakan `bahasa-inti` karena skill kategori merujuk berkasnya.
+Antigravity, Codex, dan OpenCode sama-sama membaca format `SKILL.md` dari direktori `.agents/skills/`. Untuk Claude Code tanpa plugin, salin folder skill yang diperlukan ke `.claude/skills/`; sertakan `bahasa-inti` karena skill kategori merujuk berkasnya.
 
 ## Cara kerja
 

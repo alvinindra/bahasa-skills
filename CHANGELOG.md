@@ -6,6 +6,7 @@ All notable changes to bahasa-skills are documented here. This project follows [
 
 ### Added
 
+- Petunjuk instalasi untuk Google Antigravity (global dan per proyek) pada `README.md`.
 - Alur otomatisasi GitHub Actions (`.github/workflows/release.yml`) agar setiap commit yang dipush ke cabang `main` otomatis memperbarui tag rilis Git (`vX.Y.Z` dan `latest`) serta GitHub Release.
 - Kerangka HSO (*Hook-Story-Offer*) dan FAB (*Feature-Advantage-Benefit*) pada referensi copywriting pemasaran.
 - Panduan jembatan anti-bot (*anti-robot bridges*) dan tabel perbandingan hook AI vs manusia (masalah, angka, fitur, edukasi, B2B) pada referensi media sosial.
