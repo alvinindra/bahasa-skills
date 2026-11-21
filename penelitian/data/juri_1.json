@@ -1,0 +1,58 @@
+{
+  "M1": {
+    "peringkat": {"A": 3, "B": 2, "C": 1},
+    "klaim_luar_brief": {
+      "A": ["paling jam 10 sudah tinggal plastiknya", "Nomor WhatsApp ada di bio"],
+      "B": ["Roti sobek empuk wangi pandan, ketemu keju yang gurih"],
+      "C": ["tautan WhatsApp di bio", "lalu sebut jumlah roti dan tanggalnya"]
+    }
+  },
+  "M2": {
+    "peringkat": {"A": 1, "B": 3, "C": 2},
+    "klaim_luar_brief": {
+      "A": [],
+      "B": ["Mencari satu dokumen lama di lemari arsip klinik berarti membuka map satu per satu"],
+      "C": []
+    }
+  },
+  "W1": {
+    "peringkat": {"A": 2, "B": 1, "C": 3},
+    "klaim_luar_brief": {"A": [], "B": [], "C": []}
+  },
+  "W2": {
+    "peringkat": {"A": 1, "B": 2, "C": 3},
+    "klaim_luar_brief": {
+      "A": ["saldo siswa belum berubah", "Riwayat setoran dan saldo siswa ini ikut terhapus dan tidak bisa dikembalikan"],
+      "B": ["lengkap dengan tanggal dan jumlahnya", "Saldo dan seluruh riwayat setoran {nama siswa} akan ikut terhapus dan tidak dapat dikembalikan"],
+      "C": ["Saldo Dimas belum berubah", "urut dari yang terbaru", "Seluruh riwayat setoran Dimas dan saldonya (Rp150.000) akan ikut terhapus", "Data yang sudah dihapus tidak bisa dikembalikan", "yang pertama ditanyakan wali kelas saat setoran gagal adalah apakah uangnya sudah tercatat", "masih ada uang siswa yang perlu dikembalikan dulu"]
+    }
+  },
+  "S1": {
+    "peringkat": {"A": 1, "B": 2, "C": 3},
+    "klaim_luar_brief": {
+      "A": [],
+      "B": ["Judul 58 karakter, bisa dipakai sebagai H1 sekaligus title tag"],
+      "C": []
+    }
+  },
+  "S2": {
+    "peringkat": {"A": 3, "B": 2, "C": 1},
+    "klaim_luar_brief": {
+      "A": ["UU Nomor 1 Tahun 2022 hanya mengenakan bea ini pada penyerahan pertama, yaitu pembelian motor baru", "Tunggakan dan denda dari pemilik lama harus lunas sebelum balik nama diproses", "Tarif ketiganya berlaku nasional lewat PP Nomor 76 Tahun 2020", "Berkasnya harus dicabut dulu dari Samsat asal, dan pencabutan itu dikenai biaya", "Bawa STNK lama supaya petugas bisa menghitung total untuk motormu", "masukkan nomor polisi motor di sana untuk melihat PKB dan tunggakannya lebih dulu", "Pencari \"biaya balik nama motor\" umumnya mengharapkan angka"],
+      "B": ["Sebagian daerah memberi keringanan atau membebaskannya untuk kendaraan bekas", "tunggakan dan dendanya harus dilunasi saat balik nama", "biasanya diurus di loket kepolisian, terpisah dari loket pajak", "Bawa STNK, BPKB, KTP, dan kuitansi pembelian supaya petugas bisa menghitung sesuai data motormu", "mampir dulu ke bengkel kami untuk dibersihkan supaya cek fisiknya lancar"],
+      "C": ["kamu akan repot setiap kali bayar pajak tahunan atau menjual motor itu lagi", "tunggakan dan dendanya ikut harus dilunasi", "beberapa daerah sesekali membebaskan bea balik nama atau menghapus denda pajak"]
+    }
+  },
+  "P1": {
+    "peringkat": {"A": 1, "B": 2, "C": 3},
+    "klaim_luar_brief": {
+      "A": ["siswa SMAN 4 Kota X", "\"58%\" ditulis \"58 persen\" sesuai kaidah naskah resmi"],
+      "B": ["Konsentrasi belajar merupakan salah satu prasyarat penting agar siswa dapat mengikuti dan memahami pelajaran di kelas"],
+      "C": ["Konsentrasi belajar menentukan seberapa banyak materi yang dapat diserap siswa selama jam pelajaran", "lebih dari separuh responden mengikuti pelajaran dengan waktu tidur yang pendek", "pada siswa sekolah tersebut"]
+    }
+  },
+  "I1": {
+    "peringkat": {"A": 3, "B": 1, "C": 2},
+    "klaim_luar_brief": {"A": [], "B": [], "C": []}
+  }
+}

@@ -4,6 +4,13 @@ All notable changes to bahasa-skills are documented here. This project follows [
 
 ## [Unreleased]
 
+## [1.4.1] - 2026-11-21
+
+### Added
+
+- `penelitian/`: studi terdaftar atas efektivitas skill — protokol dan prompt di-commit sebelum pengambilan data, 24 naskah dari 24 agen pada tiga kondisi (kontrol, instruksi generik, skill v1.4.0), dua juri buta, hasil pemeriksa, dan skrip analisis yang bisa dijalankan ulang (`penelitian/laporan.md`, `penelitian/analisis.py`, `penelitian/data/`).
+- `LICENSE` (MIT).
+
 ## [1.4.0] - 2026-11-21
 
 ### Added

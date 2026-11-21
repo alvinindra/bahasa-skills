@@ -1,0 +1,92 @@
+{
+  "per_kondisi": {
+    "K": {
+      "rerata_keras_per_100": 0.35,
+      "median_keras_per_100": 0.0,
+      "rerata_tinjau_per_100": 0.64,
+      "total_keras": 3,
+      "total_tinjau": 6,
+      "total_kata": 904,
+      "naskah_tanpa_keras": 7
+    },
+    "G": {
+      "rerata_keras_per_100": 0.17,
+      "median_keras_per_100": 0.0,
+      "rerata_tinjau_per_100": 0.45,
+      "total_keras": 2,
+      "total_tinjau": 5,
+      "total_kata": 988,
+      "naskah_tanpa_keras": 7
+    },
+    "S": {
+      "rerata_keras_per_100": 0.0,
+      "median_keras_per_100": 0.0,
+      "rerata_tinjau_per_100": 0.4,
+      "total_keras": 0,
+      "total_tinjau": 4,
+      "total_kata": 1272,
+      "naskah_tanpa_keras": 8
+    }
+  },
+  "uji": {
+    "S-K": {
+      "rerata_selisih": -0.35,
+      "p_dua_sisi": 1.0,
+      "lebih_rendah": 1,
+      "sama": 7,
+      "lebih_tinggi": 0
+    },
+    "S-G": {
+      "rerata_selisih": -0.17,
+      "p_dua_sisi": 1.0,
+      "lebih_rendah": 1,
+      "sama": 7,
+      "lebih_tinggi": 0
+    },
+    "G-K": {
+      "rerata_selisih": -0.19,
+      "p_dua_sisi": 1.0,
+      "lebih_rendah": 1,
+      "sama": 6,
+      "lebih_tinggi": 1
+    }
+  },
+  "juri": {
+    "juri_1": {
+      "peringkat_pertama": {
+        "K": 3,
+        "G": 2,
+        "S": 3
+      },
+      "p_binomial_S": 0.5318
+    },
+    "juri_2": {
+      "peringkat_pertama": {
+        "K": 0,
+        "G": 3,
+        "S": 5
+      },
+      "p_binomial_S": 0.0879
+    },
+    "gabungan": {
+      "peringkat_pertama": {
+        "K": 3,
+        "G": 5,
+        "S": 8
+      },
+      "n": 16,
+      "p_binomial_S": 0.126501,
+      "rerata_peringkat": {
+        "K": 2.19,
+        "G": 2.0,
+        "S": 1.81
+      },
+      "klaim_luar_brief_menurut_juri": {
+        "K": 19,
+        "G": 30,
+        "S": 30
+      },
+      "sepakat_peringkat_pertama": 3
+    }
+  }
+}
