@@ -8,8 +8,8 @@ Prinsip Ivan Lanin: padanan yang baik itu maknanya tepat, bentuknya ringkas, kon
 2. Status **TUMBUH** → pakai di ragam resmi/konsultatif; di ragam santai boleh tetap istilah asing (*miring*) bila padanan terasa kaku bagi audiens.
 3. Status **KAKU** → jangan pakai, kecuali diminta atau untuk instansi yang mewajibkannya; pakai istilah asing (*miring*) atau frasa Indonesia biasa.
 4. Istilah asing yang dipertahankan dan belum terserap KBBI → tulis *miring*. Yang sudah diserap (akun, konten, fitur, hoaks) → tegak.
-5. Ranah niaga digital punya pinjaman ternaturalisasi (*checkout, cashback, e-wallet, DM*); di konten pemasaran santai, memaksakan padanan justru mengganggu. Lihat aturan campur kode di `bahasa-marketing`.
-6. Ragu? Periksa PASTI (pasti.kemdikbud.go.id) atau KBBI; jangan mengarang padanan sendiri.
+5. Ranah niaga digital punya pinjaman ternaturalisasi (*checkout, cashback, e-wallet, DM, scan QRIS*); di konten pemasaran santai, memaksakan padanan justru mengganggu. Lihat aturan campur kode di `bahasa-marketing`.
+6. Ragu? Periksa PASTI (pasti.kemendikdasmen.go.id) atau KBBI; jangan mengarang padanan sendiri.
 
 ## LAZIM: selalu pakai
 
@@ -35,7 +35,7 @@ Prinsip Ivan Lanin: padanan yang baik itu maknanya tepat, bentuknya ringkas, kon
 | netizen | warganet |
 | hoax | hoaks |
 | selfie | swafoto |
-| scan | pindai |
+| scan | pindai (di konten niaga santai, "scan QRIS" sudah ternaturalisasi dan boleh dipakai) |
 | wireless | nirkabel |
 | network | jaringan |
 | shortcut | pintasan |

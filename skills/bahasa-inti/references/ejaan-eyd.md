@@ -1,6 +1,6 @@
 # Ringkasan EYD Edisi V untuk Penulis Konten
 
-EYD Edisi V (Badan Bahasa, 2022) menggantikan PUEBI. Rujukan resmi: ejaan.kemdikbud.go.id. Ringkasan ini memuat kaidah yang paling sering dilanggar di konten pemasaran, web, dan laporan.
+EYD Edisi V (Badan Bahasa, 2022) menggantikan PUEBI. Rujukan resmi: ejaan.kemendikdasmen.go.id (alamat lama ejaan.kemdikbud.go.id sudah tidak aktif). Butir kapital judul, tanda pisah, dan *maha-* di bawah dicek langsung ke laman itu pada November 2026. Ringkasan ini memuat kaidah yang paling sering dilanggar di konten pemasaran, web, dan laporan.
 
 ## 1. `di-`/`ke-`: kesalahan nomor satu
 
@@ -23,7 +23,8 @@ EYD Edisi V (Badan Bahasa, 2022) menggantikan PUEBI. Rujukan resmi: ejaan.kemdik
 - Nama geografi kapital hanya bila bagian nama diri: *Danau Toba* vs *berenang di danau*; *pisang ambon*, *gula jawa* (nama jenis, kecil).
 - Jabatan/gelar kapital bila diikuti nama atau dipakai sebagai sapaan: *Presiden Sukarno* vs *seorang presiden*.
 - Kata kekerabatan kapital saat jadi sapaan: "Silakan, **Bu**." vs *ibu saya guru*.
-- **Judul dan heading:** kapital tiap kata **hanya untuk judul karya** (buku, film, lagu; kata tugas tetap kecil). Heading artikel/web memakai gaya kalimat: kapital kata pertama + nama diri. Jangan meniru Title Case Inggris.
+- **Judul** (butir F.21): huruf kapital di awal setiap kata, termasuk unsur bentuk ulang utuh, pada judul buku, karangan, artikel, dan makalah serta nama media massa, **kecuali kata tugas yang tidak di awal**: *Dari Ave Maria ke Jalan Lain ke Roma*, "Penerapan Asas-Asas Hukum Perdata". Kata tugas yang paling sering salah dikapitalkan: *di, ke, dari, dan, atau, yang, untuk, dengan, pada, dalam, bagi, oleh, tentang, sebagai, terhadap*. Beda dengan Title Case Inggris, yang juga mengapitalkan kata tugas panjang.
+- **Gaya kalimat** (kapital kata pertama + nama diri) tidak diatur EYD, tetapi lazim sebagai gaya selingkung untuk subjudul web, dokumentasi, dan label antarmuka. Sah bila seragam. Ikuti gaya klien; jangan mencampur dua gaya dalam satu dokumen.
 - Hari, bulan, hari besar: *Senin, Februari, Idulfitri*.
 
 ## 3. Huruf miring dan tebal
@@ -38,7 +39,7 @@ EYD Edisi V (Badan Bahasa, 2022) menggantikan PUEBI. Rujukan resmi: ejaan.kemdik
 | Koma | Wajib sebelum *dan/atau* pada rincian ≥3: *domain, hosting, dan CMS*. Wajib setelah konjungsi antarkalimat: *Namun, … / Jadi, … / Oleh karena itu, …*. Wajib sebelum *tetapi, melainkan, sedangkan*. **Haram antara subjek dan predikat.** |
 | Titik dua | Setelah pernyataan lengkap yang diikuti rincian: *Ia butuh tiga hal: …*. Jangan dipakai bila rincian jadi pelengkap kalimat (*Ia butuh* → tanpa titik dua). |
 | Tanda hubung (-) | *se-* + kapital: *se-Indonesia*; *ke-* + angka: *abad ke-21*; angka + *-an*: *2000-an*; serapan campur: *di-upload* (lebih baik: diunggah). |
-| Tanda pisah (—) | EYD memakainya untuk rentang (*2020—2025, Jakarta—Bandung*) dan aposisi. Aturan paket ini lebih ketat: pakai hanya untuk rentang, itu pun boleh ditulis "sampai" atau "s.d."; untuk aposisi pakai koma atau kurung, karena em dash bergaya kini penanda kuat tulisan mesin. |
+| Tanda pisah (—) | EYD V memberi tiga pemakaian: mengapit keterangan yang bukan bagian utama kalimat, mengapit keterangan yang bisa saling menggantikan dengan bagian yang dijelaskan (aposisi), dan rentang bilangan, tanggal, atau tempat (*2019—2022, Senin—Jumat, Jakarta—Bandung*), tanpa spasi. Aturan paket ini lebih ketat: dua pemakaian pertama diganti koma atau kurung karena penulis Indonesia jarang memakainya dan pembaca telanjur membacanya sebagai gaya mesin; rentang boleh ditulis "sampai" atau "s.d.". |
 | Petik | Petikan langsung dan makna khusus. Konsisten kutip lurus atau keriting, jangan campur. |
 | Garis miring | Pengganti *atau/per/tiap*: *Rp50.000/bulan*. |
 
@@ -96,5 +97,6 @@ melakukan analisis → menganalisis · melakukan penelitian → meneliti · mela
 
 ## 10. Catatan pemeliharaan
 
-- Penulisan *maha-* (sifat Tuhan): sumber sekunder berbeda pendapat antara PUEBI dan EYD V. Verifikasi langsung di ejaan.kemdikbud.go.id sebelum dipakai di naskah keagamaan/resmi.
+- Penulisan *maha-*: EYD V (Kata Turunan, butir 1.e) menetapkan bentuk terikat *maha-* yang mengacu pada nama atau sifat Tuhan ditulis **terpisah dengan huruf awal kapital**: *Yang Maha Esa, Tuhan Yang Maha Kuasa, Yang Maha Pengasih*. Ini berbeda dari PUEBI, yang merangkaikan *maha-* dengan kata dasar.
+- Bentuk terikat + kata asing bercetak miring memakai tanda hubung: anti-*mainstream*, pasca-*reshuffle*.
 - EYD V menghapus panduan tanda baca daftar pustaka: ikuti gaya sitasi yang berlaku (APA dsb.), bukan pedoman ejaan.

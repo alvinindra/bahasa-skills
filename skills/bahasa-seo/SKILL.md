@@ -5,12 +5,12 @@ description: "Menulis konten SEO berbahasa Indonesia yang naik peringkat tanpa j
 
 # Bahasa SEO
 
-Skill ini menumpuk di atas `bahasa-inti`: semua larangan dan pemeriksaan di sana berlaku penuh. Artikel SEO adalah tempat AI slop paling sering lahir, jadi di sini aturannya justru paling ketat. Baca [../bahasa-inti/references/frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md) sebelum menulis artikel.
+Skill ini menumpuk di atas `bahasa-inti`: semua larangan dan pemeriksaan di sana berlaku penuh, termasuk pemeriksa otomatis `../bahasa-inti/scripts/periksa.py`. Artikel SEO adalah tempat AI slop paling sering lahir, jadi di sini aturannya justru paling ketat. Baca [../bahasa-inti/references/frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md) sebelum menulis artikel penuh; untuk judul, meta, atau satu paragraf, L1 sampai L10 dan pemeriksa otomatis (dengan `--seo`) cukup.
 
 Prinsip yang menggantikan semua trik: **tulis untuk manusia dulu; Google menghukum konten yang dibuat untuk mesin.** Dokumen resmi Google (helpful content) menyebut tanda konten bermasalah, antara lain: hanya merangkum yang sudah ditulis orang lain tanpa nilai tambah, produksi massal, dan **menulis demi mencapai jumlah kata tertentu**. Maka di skill ini:
 
 - **Tidak ada target jumlah kata.** Panjang mengikuti isi. Artikel 600 kata yang menjawab tuntas mengalahkan 2.000 kata berisi pengulangan.
-- **Tidak menulis artikel yang tidak menambah apa pun.** Sebelum menulis, jawab: apa yang artikel ini punya dan tidak dimiliki 10 hasil teratas (data sendiri, pengalaman nyata, contoh lokal, angka terbaru)? Tidak ada jawaban berarti jangan langsung menulis; sarankan sudut baru ke pengguna.
+- **Tidak menulis artikel yang tidak menambah apa pun.** Sebelum menulis, jawab: apa yang artikel ini punya dan tidak dimiliki 10 hasil teratas (data sendiri, pengalaman nyata, contoh lokal, angka terbaru)? Tidak ada jawaban berarti jangan langsung menulis; sarankan sudut baru ke pengguna. Tanpa akses ke hasil pencarian, ambil sudut dari materi pengguna, catat sebagai asumsi, dan jangan mengaku sudah membandingkan pesaing.
 
 ## Empat keputusan sebelum menulis
 
@@ -27,13 +27,13 @@ Prinsip yang menggantikan semua trik: **tulis untuk manusia dulu; Google menghuk
 Menulis artikel blog untuk kueri transaksional adalah salah format; sarankan halaman layanan.
 
 3. **Ragam kata kunci: tulis seperti orang mencari.** Orang Indonesia mengetik "hp" (bukan "ponsel"); "cara bikin" dan "cara membuat" dua-duanya hidup. Kata kunci mengikuti yang diketik pengguna (verifikasi lewat Google Autocomplete/People Also Ask); **prosa di sekitarnya tetap rapi dan baku**. Kata kunci nonbaku boleh tampil apa adanya di judul/heading bila memang bentuk dominan ("HP 2 jutaan terbaik"); jangan dikorbankan jadi kaku ("telepon seluler dua jutaan").
-4. **Pembaca dan pengetahuannya**: artikel "apa itu SEO" dan "audit teknikal" berbeda kedalaman; jangan menjelaskan hal dasar di artikel lanjutan.
+4. **Pembaca dan pengetahuannya**: artikel "apa itu SEO" dan "audit teknikal" berbeda kedalaman; jangan menjelaskan hal dasar di artikel lanjutan. Blog bersapaan *kamu* memakai ragam santai yang rapi: kata baku, kalimat luwes, tanpa partikel percakapan (*sih, dong, banget*) kecuali merek memang begitu.
 
 ## Struktur artikel
 
-- **Pembuka = jawaban, bukan janji.** Kalimat pertama langsung menjawab/merangkum inti (ini juga yang dikutip untuk featured snippet). Terlarang: "Dalam artikel ini kita akan membahas…", "Di era digital…". Contoh untuk kueri "cara membuat website": "Membuat situs sendiri butuh tiga hal: domain, hosting, dan CMS. Total biaya mulai Rp300 ribuan per tahun. Berikut langkahnya sampai tayang."
+- **Pembuka = jawaban, bukan janji.** Kalimat pertama langsung menjawab/merangkum inti (ini juga yang dikutip untuk featured snippet). Terlarang: "Dalam artikel ini kita akan membahas…", "Di era digital…". Contoh untuk kueri "cara membuat website": "Membuat situs sendiri butuh tiga hal: domain, hosting, dan CMS. Total biaya mulai Rp300 ribuan per tahun."
 - **Satu H1** untuk judul. **H2** untuk subtopik utama (minimal 3, urutan logis mengikuti alur pengerjaan/pemahaman, bukan acak). **H3** untuk rincian di dalam H2. Jangan lompat level.
-- Heading ditulis gaya kalimat, informatif, boleh memuat varian kata kunci **bila wajar**. Heading yang semuanya dijejali kata kunci adalah keyword stuffing modern.
+- Judul dan subjudul memakai satu gaya kapital: ikuti gaya situs; tanpa informasi, pakai kaidah EYD V (kapital tiap kata kecuali kata tugas seperti *di, dan, untuk, dengan*). Subjudul informatif, boleh memuat varian kata kunci **bila wajar**. Heading yang semuanya dijejali kata kunci adalah keyword stuffing modern.
 - Tiap seksi H2 membawa informasi baru. Seksi yang hanya memparafrasakan seksi lain dihapus.
 - **Penutup**: keputusan, langkah berikutnya, atau ringkasan keputusan. Bukan "Demikianlah…", bukan mengulang semua isi.
 - **FAQ** hanya bila ada pertanyaan nyata (dari People Also Ask/keluhan pengguna) yang tak tercakup badan artikel; jawaban spesifik, bukan slot kata kunci.
@@ -42,7 +42,7 @@ Menulis artikel blog untuk kueri transaksional adalah salah format; sarankan hal
 
 | Elemen | Aturan |
 |---|---|
-| Title tag | 50–60 karakter; kata kunci di depan; menyebut nilai spesifik; tidak clickbait. "Harga website company profile 2026 + rincian biayanya" |
+| Title tag | 50–60 karakter (permintaan "judul artikel" tanpa keterangan: buat satu judul ≤60 karakter yang bisa dipakai sebagai H1 sekaligus title tag); kata kunci di depan; menyebut nilai spesifik; tidak clickbait. "Harga Website Company Profile 2026 + Rincian Biayanya" |
 | Meta description | 120–158 karakter (±120 aman di ponsel); aktif; kata kunci wajar; janji yang ditepati isi |
 | URL/slug | pendek, kata kunci, tanpa kata tugas: /harga-website-company-profile |
 | 100 kata pertama | memuat kata kunci utama secara alami, karena memang membahasnya, bukan disisipkan |
@@ -74,7 +74,7 @@ Menulis artikel blog untuk kueri transaksional adalah salah format; sarankan hal
 
 > ❌ "Di zaman modern ini, website merupakan hal yang sangat penting bagi bisnis. Dalam artikel ini, kita akan membahas secara lengkap dan mendalam tentang cara membuat website. Tanpa berlama-lama lagi, yuk simak ulasannya!"
 
-> ✅ "Membuat situs bisnis sendiri butuh tiga komponen: domain (±Rp150 ribu/tahun), hosting (mulai Rp25 ribu/bulan), dan CMS seperti WordPress (gratis). Panduan ini merinci 7 langkahnya sampai situs tayang, termasuk kesalahan yang paling sering bikin pemula bayar dobel."
+> ✅ "Membuat situs bisnis sendiri butuh tiga komponen: domain (±Rp150 ribu/tahun), hosting (mulai Rp25 ribu/bulan), dan CMS seperti WordPress (gratis). Tujuh langkah di bawah membawa situsmu sampai tayang, termasuk kesalahan yang paling sering bikin pemula bayar dobel."
 
 > ❌ Meta: "Website adalah kumpulan halaman yang saling terhubung. Pelajari lebih lanjut tentang website di artikel ini yang membahas secara lengkap."
 > ✅ Meta: "Rincian biaya bikin website 2026: domain, hosting, desain, plus 7 langkah agar situsmu tayang dalam seminggu tanpa jasa mahal."
@@ -86,7 +86,7 @@ Setelah pemeriksaan `bahasa-inti`:
 1. Kalimat pertama menjawab kueri? (Uji: layakkah jadi featured snippet?)
 2. Ada minimal satu hal yang tak dimiliki artikel pesaing (data, contoh lokal, pengalaman, angka)?
 3. Title 50–60 karakter, meta 120–158, kata kunci di depan title?
-4. Heading berurut logis, tak lompat level, tak dijejali kata kunci?
+4. Heading berurut logis, tak lompat level, tak dijejali kata kunci, satu gaya kapital?
 5. Tak ada paragraf yang bisa dihapus tanpa kehilangan informasi?
 6. Semua klaim berangka bersumber + bertahun?
 7. Kalau kuerinya transaksional: ini halaman layanan, bukan artikel?

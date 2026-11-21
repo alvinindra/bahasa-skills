@@ -58,6 +58,6 @@ Cerita spesifik yang bisa diverifikasi:
 
 ## Meta halaman (ringkas; detail SEO di skill bahasa-seo)
 
-- Title tag: nama halaman + merek, gaya kalimat, maksimal ±60 karakter: "Harga & paket | NamaProduk".
+- Title tag: nama halaman + merek, maksimal ±60 karakter, mengikuti gaya kapital situs: "Harga & Paket | NamaProduk".
 - Meta description: manfaat + ajakan, ±120–158 karakter, bahasa aktif.
 - Jangan menumpuk kata kunci di title/meta halaman produk; itu urusan relevansi, bukan repetisi.

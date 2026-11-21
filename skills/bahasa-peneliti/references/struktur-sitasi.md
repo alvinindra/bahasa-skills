@@ -37,7 +37,7 @@ Referensi fiktif buatan AI punya semua ciri visual referensi asli (nama penulis 
 ## Gaya sitasi
 
 - Ikuti gaya selingkung jurnal/kampus target. Tanpa informasi itu: **APA edisi terbaru**, sebutkan asumsinya.
-- Yang paling sering salah di APA Indonesia: "dkk." vs "et al." (ikuti pedoman target; APA asli memakai et al.), tanda "&" vs "dan" (dalam kurung: &; dalam kalimat: dan), urutan alfabetis daftar pustaka, kapitalisasi judul artikel (hanya kata pertama + nama diri).
+- Yang paling sering salah di APA Indonesia: "dkk." vs "et al." (ikuti pedoman target; APA asli memakai et al.), tanda "&" vs "dan" (dalam kurung: &; dalam kalimat: dan), urutan alfabetis daftar pustaka, kapitalisasi judul artikel di daftar pustaka (gaya APA: hanya kata pertama + nama diri; ini aturan gaya sitasi, berbeda dari judul naskah yang mengikuti EYD V atau gaya selingkung jurnal).
 - Konsistensi total: satu gaya untuk semua entri. Sarankan Mendeley/Zotero; banyak jurnal Indonesia mewajibkannya.
 - Sitasi dalam teks harus 1:1 dengan daftar pustaka: semua yang dikutip ada di daftar; semua di daftar dikutip.
 

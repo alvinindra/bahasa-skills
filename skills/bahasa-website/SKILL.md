@@ -5,7 +5,7 @@ description: "Menulis teks situs web dan antarmuka berbahasa Indonesia: UX writi
 
 # Bahasa Website
 
-Skill ini menumpuk di atas `bahasa-inti`: semua larangan dan pemeriksaan di sana berlaku penuh. Kalau tersedia, baca juga [../bahasa-inti/references/frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md).
+Skill ini menumpuk di atas `bahasa-inti`: semua larangan dan pemeriksaan di sana berlaku penuh, termasuk pemeriksa otomatis `../bahasa-inti/scripts/periksa.py`. Untuk copy halaman penuh, baca juga [../bahasa-inti/references/frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md); untuk microcopy, L1 sampai L10 cukup.
 
 Teks antarmuka berbeda dari artikel: dibaca sepintas, di tengah tugas, sering dalam keadaan kesal. Standarnya empat, rumusan praktisi UX writing Indonesia (dwinawan.com; UX writer Gojek dan tiket.com memakai varian serupa): **jelas** (tak multitafsir), **ringkas** (tak berbelit), **konsisten** (istilah dan nada sama di seluruh produk), **berguna** (memandu tindakan berikutnya). Kalau harus memilih, jelas mengalahkan ringkas, dan keduanya mengalahkan lucu.
 
@@ -88,6 +88,7 @@ Setelah pemeriksaan `bahasa-inti`:
 4. Tombol menyebut hasil aksinya?
 5. Headline bisa dipahami dalam sekali baca oleh orang yang baru tiba?
 6. Teks masih benar saat dipotong (tombol sempit, notifikasi satu baris)?
+7. Satu gaya kapital untuk semua label dan judul halaman, tanpa kata tugas berkapital?
 
 ## Referensi
 

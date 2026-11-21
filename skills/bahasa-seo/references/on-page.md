@@ -2,8 +2,8 @@
 
 ## Title tag
 
-- **50–60 karakter** (Google memotong ±600 px; kata Indonesia cenderung panjang, jadi hitung cermat).
-- Kata kunci utama di depan; nilai spesifik di belakang: "Harga jasa SEO 2026: rincian paket & cara menilai agensi".
+- **50–60 karakter** sebagai patokan praktis (Google memotong berdasarkan lebar piksel, ±600 px, dan tidak menetapkan batas karakter resmi; kata Indonesia cenderung panjang, jadi hitung cermat).
+- Kata kunci utama di depan; nilai spesifik di belakang: "Harga Jasa SEO 2026: Rincian Paket & Cara Menilai Agensi".
 - Unik per halaman; jangan menumpuk varian ("Jasa SEO | SEO Murah | SEO Terbaik" = stuffing).
 - Angka dan tahun menaikkan klik bila jujur; jangan tulis 2026 pada isi 2023.
 
@@ -19,7 +19,7 @@
 - H2 = kerangka logis artikel; pembaca yang hanya membaca H2 harus menangkap alur lengkap.
 - H3 merinci H2; jangan lompat H2 → H4.
 - Heading pertanyaan (persis bentuk orang bertanya) + jawaban langsung di bawahnya = kombinasi featured snippet.
-- Gaya kalimat (kapital kata pertama + nama diri), bukan Title Case.
+- Satu gaya kapital untuk seluruh situs. EYD V: kapital di tiap kata judul kecuali kata tugas (*di, ke, dari, dan, yang, untuk, dengan*). Gaya kalimat sah bila itu gaya selingkung situs. Yang salah: kata tugas dikapitalkan ("Cara Membuat Website Untuk Pemula") dan dua gaya bercampur.
 
 ## Featured snippet & PAA
 

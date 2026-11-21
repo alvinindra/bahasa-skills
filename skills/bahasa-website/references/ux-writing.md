@@ -16,7 +16,7 @@ Empati bukan berarti meminta maaf berlebihan. Satu "maaf" pada kegagalan sistem 
 - Larangan: "Klik di sini", "Submit", "OK" untuk aksi berakibat, "Ya/Tidak" pada dialog destruktif.
 - Pasangan aksi: primer memakai verba aksi; sekunder "Batal" atau alternatif jujur ("Nanti saja").
 - Tautan inline menyebut tujuannya: "Lihat syarat lengkap", bukan "di sini".
-- Kapitalisasi label: gaya kalimat ("Simpan perubahan"), bukan Title Case; konsisten seproduk.
+- Kapitalisasi label: default paket ini gaya kalimat ("Simpan perubahan"), konvensi yang lazim di sistem desain. Kalau produk sudah memakai kapital di tiap kata ("Simpan Perubahan"), ikuti. Yang wajib: seragam seproduk, dan kata tugas tetap kecil ("Masuk dengan Google").
 
 ## Pesan galat
 

@@ -1,6 +1,6 @@
 # Kata Baku yang Paling Sering Salah Tulis
 
-Rujukan akhir selalu KBBI Daring (kbbi.kemdikbud.go.id). Daftar ini memuat pasangan yang paling sering salah di tulisan pemasaran, web, dan laporan.
+Rujukan akhir selalu KBBI VI Daring (kbbi.kemendikdasmen.go.id; alamat lama kbbi.kemdikbud.go.id sudah tidak aktif). Daftar ini memuat pasangan yang paling sering salah di tulisan pemasaran, web, dan laporan.
 
 Dua hal yang sering tertukar:
 
@@ -20,7 +20,8 @@ Dua hal yang sering tertukar:
 | izin, mengizinkan | ijin |
 | aktivitas | aktifitas |
 | Anda (kapital di mana pun) | anda |
-| memengaruhi, memesona, memerhatikan* | mempengaruhi, mempesona (*KBBI: memerhatikan/memperhatikan dua-duanya tercatat; konsisten satu) |
+| memengaruhi, memesona | mempengaruhi, mempesona (p luluh karena *pengaruh* dan *pesona* kata dasar) |
+| memperhatikan | memerhatikan (KBBI VI: dasarnya *hati*, jadi *per-* di sini awalan dan p tidak luluh) |
 
 ## A–Z
 
@@ -79,6 +80,7 @@ Dua hal yang sering tertukar:
 | pascasarjana, pascapandemi (serangkai) | pasca sarjana |
 | peduli | perduli |
 | pikir | fikir |
+| produktivitas | produktifitas |
 | provinsi | propinsi |
 | rapi | rapih |
 | respons, merespons | respon |
@@ -96,6 +98,7 @@ Dua hal yang sering tertukar:
 | telentang | terlentang |
 | tenteram | tentram |
 | teoretis | teoritis |
+| tepercaya | terpercaya (KBBI VI merujukkan *terpercaya* ke *tepercaya*) |
 | terampil | trampil |
 | ubah, diubah | rubah, dirubah |
 | utang | hutang |
@@ -126,7 +129,7 @@ Dua hal yang sering tertukar:
 | Jumat | Jum'at |
 | azan | adzan |
 | doa | do'a |
-| musala | mushola |
+| musala | mushola, musholla |
 | Idulfitri, Iduladha (serangkai) | Idul Fitri* |
 
 *Catatan: KBBI mencatat "Idulfitri" serangkai; penulisan "Idul Fitri" masih dominan di media. Untuk teks resmi ikuti KBBI; untuk konten pemasaran boleh ikut kelaziman merek, asal konsisten.
