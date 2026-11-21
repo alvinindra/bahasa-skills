@@ -31,6 +31,8 @@ Dipakai untuk: bahasa-marketing (sapaan/register, konvensi platform, CTA, aturan
 
 - https://latihid.medium.com/tone-of-voice-di-setiap-media-sosial-itu-gimana-sih-5bd033b6519c [S] · gradien nada per platform; Twitter Triangle (fun/help/inform)
 - https://redcomm.co.id/knowledges/tips-menulis-instagram-caption [S] · ±125 karakter sebelum "more"
+- https://tekno.kompas.com/read/2025/12/19/16050007/instagram-batasi-jumlah-hashtag-dalam-satu-posting [S] · Instagram membatasi 5 hashtag per unggahan dan Reels sejak Desember 2025 (pengumuman Adam Mosseri); menyebut TikTok menerapkan batas serupa sejak Agustus 2025 (riset November 2026)
+- https://www.digitaltrends.com/social-media/instagram-now-limits-you-to-five-hashtags-per-post/ [S] · laporan yang sama, mengutip Mosseri: "a few specific tags actually perform better than a long list of generic ones"
 - https://mtarget.co/blog/tips-membuat-caption-instagram/ [S]
 - https://www.bounche.com/blog/social-media/tips-membuat-caption-instagram/ [S]
 - https://idwebhost.com/blog/strategi-hook-tiktok/ [S] · hook 1-3 detik
@@ -48,6 +50,9 @@ Dipakai untuk: bahasa-marketing (sapaan/register, konvensi platform, CTA, aturan
 - https://journalaudiens.umy.ac.id/index.php/ja/article/download/265/206/873 [A] · ketentuan bahasa Etika Pariwara Indonesia (superlatif butuh bukti)
 - https://www.indonesiana.id/read/182313/pelanggaran-etika-iklan-oleh-garnier-dan-holywings-tuai-kritik-publik [S] · kasus Garnier "No 1 Micellar Water" tanpa sumber data
 - https://id.scribd.com/document/36331023/Etika-Pariwara-Indonesia [S] · dokumen EPI
+- https://ejournal.upi.edu/index.php/bs_antologi_ind/article/download/40957/17219 [A] · mengutip EPI Amandemen 2020 Bab III.A butir 1.2.1 dan 1.2.2 beserta definisi bukti (survei atau riset lembaga independen yang kredibel) (riset November 2026)
+- https://e-journal.upr.ac.id/index.php/parislangkis/article/download/8675/4546 [A] · kutipan butir 1.2.2 yang sama (riset November 2026)
+- https://www.byerisk.com/id/id-ID/blog/kata-paling-dilarang-deskripsi-produk [S] · ringkasan butir 1.2.3: *100%, murni, asli*, *halal*, *satu-satunya*, *gratis* (riset November 2026)
 - https://journal.asdkvi.or.id/index.php/Filosofi/article/download/203/328/1132 [A]
 
 ## Bahasa Jaksel / campur kode
@@ -75,8 +80,8 @@ Dipakai untuk: bahasa-marketing (sapaan/register, konvensi platform, CTA, aturan
 
 1. **Tidak ada style guide publik Indonesia yang menormakan "Masuk vs Login"**; default padanan Indonesia + kewajiban konsistensi di bahasa-website adalah keputusan editorial paket ini, bukan kutipan.
 2. Panduan voice resmi Gojek tidak publik; atribusi pilar suara mengarah ke artikel Medium Life at Gojek.
-3. Angka caption/hashtag Instagram berasal dari blog [S] tanpa sitasi primer; hanya "±125 karakter sebelum tombol more" yang merupakan perilaku produk yang dapat diverifikasi.
-4. Nomor pasal EPI tidak diverifikasi dari dokumen resmi; isi ketentuannya konsisten lintas sumber akademik, jadi dirujuk sebagai "ketentuan EPI tentang bahasa" tanpa nomor pasal.
+3. Batas 5 hashtag Instagram kini perilaku produk (Desember 2025), dilaporkan Kompas Tekno dan Digital Trends dari pengumuman Adam Mosseri. Batas TikTok hanya bersumber dari laporan Kompas yang sama. Angka panjang caption lain masih dari blog [S]; "±125 karakter sebelum tombol more" adalah perilaku produk yang dapat diverifikasi.
+4. Bunyi butir 1.2.2 EPI Amandemen 2020 dikutip seragam oleh beberapa jurnal, jadi kini dirujuk dengan nomornya. Dokumen EPI resmi belum dibaca langsung. Butir 1.2.3 hanya bersumber satu ringkasan sekunder, sehingga di skill ditandai "menurut sumber sekunder".
 5. Klaim "87% konsumen menyukai brand yang konsisten" tidak bersitasi primer; tidak dipakai di skill.
 # Rujukan hook, isi, dan CTA media sosial
 

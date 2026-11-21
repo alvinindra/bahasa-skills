@@ -17,9 +17,9 @@ Dipakai untuk: kerangka "benar vs baik" dan lima ragam (bahasa-inti), lima syara
 
 ## Padanan istilah (rujukan resmi)
 
-- https://pasti.kemdikbud.go.id/istilah_list.php [P] · PASTI, 170.532 istilah, 50 ranah; rujukan pemeriksaan padanan
-- https://spai.kemdikbud.go.id [P] · SPAI, ±12.000 padanan (web + aplikasi)
-- https://kbbi.kemdikbud.go.id [P] · KBBI Daring; rujukan akhir semua lema
+- https://pasti.kemendikdasmen.go.id [P] · PASTI, 170.532 istilah, 50 ranah; rujukan pemeriksaan padanan (alamat lama pasti.kemdikbud.go.id tidak aktif per November 2026)
+- SPAI [P] · ±12.000 padanan; spai.kemdikbud.go.id maupun spai.kemendikdasmen.go.id tidak dapat dibuka pada 21 November 2026
+- https://kbbi.kemendikdasmen.go.id [P] · KBBI VI Daring; rujukan akhir semua lema (alamat lama kbbi.kemdikbud.go.id tidak aktif)
 - https://badanbahasa.kemdikbud.go.id/lamanbahasa/content/padanan-kata-dan-ungkapan-asing-indonesia [P]
 - https://www.detik.com/edu/detikpedia/d-6502049/45-istilah-populer-dan-padanannya-di-bahasa-indonesia-salindia-hingga-tengkes [S] · status pemakaian padanan populer
 - https://kantorbahasamaluku.kemdikbud.go.id/2018/11/mengenal-padanan-istilah-bahasa-asing-dalam-bahasa-indonesia-2/ [P]
@@ -34,9 +34,20 @@ Dipakai untuk: kerangka "benar vs baik" dan lima ragam (bahasa-inti), lima syara
 
 Catatan: daftar di kata-baku.md dikompilasi dari sumber [S] di atas; tiap lema yang diragukan harus dicek ulang ke KBBI.
 
+Dicek langsung ke KBBI VI Daring pada 21 November 2026:
+
+- https://kbbi.kemendikdasmen.go.id/entri/memperhatikan [P] · *memperhatikan* (dasar *hati*); "bentuk tidak baku: memerhatikan". Mengoreksi kata-baku.md versi lama yang menyebut dua-duanya tercatat.
+- https://kbbi.kemendikdasmen.go.id/entri/memesona [P] · *memesona*; "bentuk tidak baku: mempesona".
+- https://kbbi.kemendikdasmen.go.id/entri/terpercaya [P] · *terpercaya* dirujukkan ke *tepercaya*.
+- https://lpds.or.id/kajian/bahasa-media/kbbi-iv-yang-membuat-penasaran/ [S] · riwayat *memerhatikan* (KBBI III) menjadi *memperhatikan* (KBBI IV dan sesudahnya).
+
 ## EYD Edisi V
 
-- https://ejaan.kemdikbud.go.id [P] · rujukan resmi utama
+- https://ejaan.kemendikdasmen.go.id [P] · rujukan resmi utama (alamat lama ejaan.kemdikbud.go.id tidak aktif). Dibaca langsung pada 21 November 2026:
+  - https://ejaan.kemendikdasmen.go.id/eyd/penggunaan-huruf/huruf-kapital/ · butir 21: kapital di tiap kata judul buku, karangan, artikel, makalah, dan nama media massa, kecuali kata tugas yang tidak di awal
+  - https://ejaan.kemendikdasmen.go.id/eyd/penggunaan-tanda-baca/tanda-pisah/ · tiga pemakaian tanda pisah (mengapit keterangan, aposisi, rentang)
+  - https://ejaan.kemendikdasmen.go.id/eyd/penulisan-kata/kata-turunan/ · butir 1.e: *maha-* untuk nama atau sifat Tuhan ditulis terpisah dan berkapital
+- https://www.ejaan.id/kata-kita/74/cara-penulisan-huruf-kapital-pada-judul.html [S] · uraian kata tugas dalam judul
 - https://kumparan.com/berita-hari-ini/apa-saja-perubahan-dalam-eyd-edisi-v-ini-daftarnya-yang-perlu-disimak-1yiVp5tqpwr [S]
 - https://balaibahasaprovinsimaluku.kemdikbud.go.id/2022/09/penambahan-kaidah-pada-eyd-edisi-v/ [P]
 - https://kantorbahasamaluku.kemdikbud.go.id/2022/09/pemutakhiran-pedoman-umum-ejaan-bahasa-indonesia-menjadi-ejaan-bahasa-indonesia-yang-disempurnakan-edisi-v/ [P]
@@ -69,8 +80,10 @@ Catatan: daftar di kata-baku.md dikompilasi dari sumber [S] di atas; tiap lema y
 
 | Butir | Status | Tindakan di skill |
 |---|---|---|
-| Aturan *maha-* di EYD V | Sumber sekunder saling bertentangan (PUEBI: serangkai untuk kata dasar; satu bacaan EYD V: selalu terpisah) | ejaan-eyd.md menandainya "verifikasi langsung di ejaan.kemdikbud.go.id" |
+| Aturan *maha-* di EYD V | Terverifikasi ke laman resmi (November 2026): terpisah dan berkapital untuk nama atau sifat Tuhan | ejaan-eyd.md memuat kaidahnya |
+| Kapital judul | Terverifikasi ke laman resmi: EYD V butir F.21. Versi lama paket keliru menyebut gaya kalimat sebagai satu-satunya yang benar | Dikoreksi di bahasa-inti, bahasa-seo, bahasa-website |
+| *memerhatikan* | KBBI VI: tidak baku | Dikoreksi di kata-baku.md |
 | *takarir* | Padanan resmi, tetapi kalah mapan dari "subtitel" | Ditandai TUMBUH, bukan wajib |
 | PUPI revisi 2023 | Ivan Lanin ikut memutakhirkan; belum terbit | Tidak disitasi; pakai PUPI yang berlaku |
 | Daftar kata baku | Kompilasi sumber sekunder | Rujukan akhir tetap KBBI |
-| badanbahasa.kemdikbud.go.id & ejaan.kemdikbud.go.id | Tidak dapat diakses saat riset (DNS gagal); butir EYD V diambil dari sumber sekunder tepercaya | Konfirmasi ulang saat domain bisa diakses |
+| Domain kemdikbud.go.id (kbbi, ejaan, pasti, badanbahasa) | Tidak aktif; layanan pindah ke kemendikdasmen.go.id dan sudah bisa diakses | Semua rujukan di skill diganti ke domain baru |

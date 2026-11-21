@@ -8,6 +8,8 @@ Enam belas percobaan dijalankan pada 2 Agustus 2026 lewat subagent Claude Code: 
 | **Instruksi generik** | Prompt pengguna plus satu kalimat "tulis senatural mungkin, hindari klise dan pola kalimat yang terasa seperti tulisan AI"; tanpa akses berkas. |
 | **Dengan skill** | Model membaca SKILL.md pemandu, bahasa-inti, skill kategori yang cocok, dan references yang relevan, lalu menjalankan protokol penuh sampai Pemeriksaan Wajib. |
 
+> **Catatan revisi, 21 November 2026 (v1.4.0).** Percobaan di bawah dinilai dengan aturan v1.1.0, yang menghitung judul berkapital tiap kata ("Title Case") sebagai pelanggaran. Aturan itu keliru terhadap EYD V butir F.21 dan sudah dikoreksi: yang salah adalah kata tugas berkapital dan gaya yang bercampur. Keluaran mentah dan angka di dokumen ini dibiarkan sebagai catatan percobaan. Dengan aturan sekarang, temuan tanpa skill pada contoh 2 menjadi 4 (judulnya sesuai EYD V; masalahnya tinggal panjang 72 karakter) dan pada contoh 3 menjadi 0 (kapital label seragam; gaya kalimat hanyalah default paket). Judul bergaya kalimat pada keluaran dengan skill tetap sah sebagai gaya selingkung. Sepuluh percobaan caption tidak terpengaruh. Percobaan belum diulang dengan aturan dan pemeriksa otomatis v1.4.0.
+
 Kutipan pada blok ❌ ditampilkan apa adanya, termasuk em dash, emoji berlebih, dan klaim karangannya: semua itu bagian dari bukti. Kode L1 sampai L10 merujuk Sepuluh Larangan Keras di bahasa-inti. Merek "Kasirin" fiktif, dibuat untuk pengujian; data pada prompt contoh 2 dan 4 disediakan sebagai bahan uji.
 
 ## Contoh 1: caption Instagram (bahasa-marketing)

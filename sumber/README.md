@@ -1,6 +1,6 @@
 # Sumber
 
-Folder ini mendokumentasikan semua rujukan yang dicari dan dipakai saat menyusun paket bahasa-skills (riset per 1 Agustus 2026, lewat empat penelusuran web terpisah). Tujuannya dua: transparansi (tiap aturan bisa dilacak asal-usulnya) dan pemeliharaan (saat memperbarui skill, mulai dari sini).
+Folder ini mendokumentasikan semua rujukan yang dicari dan dipakai saat menyusun paket bahasa-skills (riset pertama 1 Agustus 2026 lewat empat penelusuran web; riset kedua 21 November 2026 untuk memverifikasi kaidah ke sumber primer dan memperbarui penanda slop). Tujuannya dua: transparansi (tiap aturan bisa dilacak asal-usulnya) dan pemeliharaan (saat memperbarui skill, mulai dari sini).
 
 | Berkas | Isi | Dipakai di skill |
 |---|---|---|
@@ -17,6 +17,7 @@ Folder ini mendokumentasikan semua rujukan yang dicari dan dipakai saat menyusun
 
 ## Aturan pemeliharaan
 
-1. Klaim kebahasaan diverifikasi ke kbbi.kemdikbud.go.id, ejaan.kemdikbud.go.id, atau pasti.kemdikbud.go.id sebelum diubah di skill.
+1. Klaim kebahasaan diverifikasi ke kbbi.kemendikdasmen.go.id, ejaan.kemendikdasmen.go.id, atau pasti.kemendikdasmen.go.id sebelum diubah di skill.
 2. Tiap berkas mencantumkan "catatan keandalan": butir yang sumbernya lemah atau bertentangan. Jangan menghapus catatan itu; perbarui bila ada bukti baru.
 3. Daftar frasa AI-slop bahasa Indonesia sebagian besar bersifat kualitatif (belum ada studi korpus Indonesia). Kalau kelak ada studi frekuensi kata untuk korpus Indonesia, jadikan dasar revisi frasa-terlarang.md.
+4. Pola baru di frasa-terlarang.md yang bisa dikenali dari kata ditambahkan juga ke `skills/bahasa-inti/scripts/periksa.py` beserta satu kasus uji di `tests/test_periksa.py`. Jalankan `python3 -m unittest discover -s tests` sebelum merilis.

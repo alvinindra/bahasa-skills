@@ -46,11 +46,11 @@ Prompt sama, model sama (Sonnet 5); yang berbeda hanya skill terpasang atau tida
 
 > ❌ Cara Mengatur Keuangan Rumah Tangga dengan Gaji UMR Pakai Rumus 50/30/20
 
-72 karakter (terpotong di hasil pencarian), Title Case.
+72 karakter, terpotong di hasil pencarian.
 
 > ✅ Cara mengatur keuangan rumah tangga gaji UMR: rumus 50/30/20
 
-60 karakter persis, kata kunci di depan, kapital hanya di kata pertama.
+60 karakter persis, kata kunci di depan. (Keluaran ini memakai gaya kalimat, sah sebagai gaya selingkung situs; sejak v1.4.0 default paket untuk judul mengikuti EYD V, lihat catatan revisi di CONTOH.md.)
 
 Dari sepuluh percobaan lintas model dengan prompt caption yang sama: Haiku 4.5 **dengan** skill (2 temuan) mengalahkan Opus 5 **tanpa** skill (7 temuan). Aturan tertulis lebih menentukan daripada ukuran model. Keluaran mentah, temuan pemeriksaan, token, dan metodenya ada di [CONTOH.md](CONTOH.md).
 
@@ -59,7 +59,8 @@ Dari sepuluh percobaan lintas model dengan prompt caption yang sama: Haiku 4.5 *
 | Berkas | Untuk apa |
 |---|---|
 | [SKILL.md](SKILL.md) (root) | **Pemandu arah** untuk instalasi klon (Cara 2): membaca kebutuhan dari prompt pengguna, lalu mengarahkan ke aturan inti dan skill kategori yang tepat. Pada instalasi plugin, peran ini dijalankan description tiap skill. |
-| [bahasa-inti](skills/bahasa-inti/SKILL.md) | Aturan dasar semua tulisan: larangan anti-slop, pemilihan ragam, kata baku, padanan istilah, EYD V. Skill lain menumpuk di atasnya. |
+| [bahasa-inti](skills/bahasa-inti/SKILL.md) | Aturan dasar semua tulisan: larangan anti-slop, pemilihan ragam, kata baku, padanan istilah, EYD V, mode menyunting dan memeriksa teks jadi. Skill lain menumpuk di atasnya. |
+| [periksa.py](skills/bahasa-inti/scripts/periksa.py) | Pemeriksa otomatis: memindai frasa terlarang, kata nonbaku, tanda pisah, kapital judul, batas hashtag, sapaan tercampur, dan pola pengganti. Python 3, tanpa dependensi. |
 | [bahasa-marketing](skills/bahasa-marketing/SKILL.md) | Materi pemasaran: caption media sosial (Instagram, TikTok, X, LinkedIn, Facebook), iklan, email, tagline, brand voice. |
 | [bahasa-website](skills/bahasa-website/SKILL.md) | Teks situs dan antarmuka: UX writing, microcopy, tombol, pesan galat, halaman landing, produk, tentang kami, FAQ. |
 | [bahasa-seo](skills/bahasa-seo/SKILL.md) | Konten organik: riset kata kunci, search intent, title dan meta description, struktur heading, standar helpful content Google. |
@@ -106,18 +107,38 @@ git clone https://github.com/alvinindra/bahasa-skills.git .agents/skills/bahasa-
 
 Antigravity, Codex, dan OpenCode sama-sama membaca format `SKILL.md` dari direktori `.agents/skills/`. Untuk Claude Code tanpa plugin, salin folder skill yang diperlukan ke `.claude/skills/`; sertakan `bahasa-inti` karena skill kategori merujuk berkasnya.
 
+**Skills CLI (semua agen yang didukungnya).** Butuh Node.js 22.20 atau lebih baru:
+
+```bash
+npx skills add alvinindra/bahasa-skills
+```
+
+CLI ini memasang pemandu `bahasa-skills` beserta seluruh isi repo (skill kategori, referensi, pemeriksa) ke folder skill agen yang dipilih.
+
 ## Cara kerja
 
-Alurnya singkat: tentukan kategori, baca aturan inti dan skill kategori, muat referensi yang relevan, lalu tulis dan jalankan pemeriksaan yang sesuai. Tidak perlu membaca semua referensi atau mengulang pemeriksaan yang sama.
+Alurnya singkat: tentukan mode (menulis, menyunting, atau memeriksa) dan kategori, baca aturan inti dan skill kategori, muat referensi yang relevan, lalu tulis dan jalankan pemeriksaan yang sesuai. Tidak perlu membaca semua referensi atau mengulang pemeriksaan yang sama.
+
+## Pemeriksa otomatis
+
+Model tidak andal memindai tulisannya sendiri, jadi pindaian kata dan tanda baca dikerjakan skrip. Agen menjalankannya sendiri sebelum menyerahkan draf; bisa juga dipakai langsung:
+
+```bash
+python3 skills/bahasa-inti/scripts/periksa.py draf.md
+python3 skills/bahasa-inti/scripts/periksa.py --ragam resmi laporan.md
+pbpaste | python3 skills/bahasa-inti/scripts/periksa.py -
+```
+
+Temuan KERAS berarti kalimatnya ditulis ulang; temuan TINJAU butuh penilaian. `--ketat` memberi kode keluar 1 bila ada temuan KERAS (untuk CI), `--seo` ikut memeriksa panjang judul, `--json` untuk keluaran terstruktur. Skrip hanya mengenali pola yang tampak dari kata: spesifisitas dan dasar klaim tetap harus dibaca manusia atau agen. Ujinya: `python3 -m unittest discover -s tests`.
 
 ## Dasar rujukan
 
 Seluruh sumber terdokumentasi di [sumber/](sumber/). Garis besarnya:
 
 - Ivan Lanin: kerangka "baik, benar, luwes", lima ragam formalitas, *Xenoglosofilia: Kenapa Harus Nginggris?* (2018), *Recehan Bahasa* (2020), Narabahasa.
-- EYD Edisi V (ejaan.kemdikbud.go.id), KBBI Daring (kbbi.kemdikbud.go.id), PASTI (pasti.kemdikbud.go.id).
-- Wikipedia *Signs of AI writing* dan kajian *excess vocabulary* (Kobak dkk., Science Advances 2025), diadaptasi ke penanda slop berbahasa Indonesia.
-- Praktik industri Indonesia: prinsip UX writing Gojek/tiket.com/Tokopedia, Etika Pariwara Indonesia (aturan superlatif), dokumen resmi Google Search Central (helpful content, E-E-A-T).
+- EYD Edisi V (ejaan.kemendikdasmen.go.id), KBBI VI Daring (kbbi.kemendikdasmen.go.id), PASTI (pasti.kemendikdasmen.go.id). Butir kapital judul, tanda pisah, dan *maha-* serta beberapa lema dicek langsung ke laman resminya pada November 2026.
+- Wikipedia *Signs of AI writing* (dibaca ulang November 2026), kajian *excess vocabulary* (Kobak dkk., Science Advances 2025), kerangka Antislop (Paech dkk., 2025), serta pengamatan penyunting Indonesia, diadaptasi ke penanda slop berbahasa Indonesia.
+- Praktik industri Indonesia: prinsip UX writing Gojek/tiket.com/Tokopedia, Etika Pariwara Indonesia Amandemen 2020 (butir 1.2.2 tentang superlatif), dokumen resmi Google Search Central (helpful content, E-E-A-T).
 
 ## Struktur
 
@@ -127,17 +148,18 @@ bahasa-skills/
 ├── .claude-plugin/           # manifest plugin & marketplace
 ├── assets/                   # thumbnail repo
 ├── skills/
-│   ├── bahasa-inti/          # SKILL.md + references/ (frasa terlarang, kata baku, padanan, EYD)
+│   ├── bahasa-inti/          # SKILL.md + references/ (frasa terlarang, penyuntingan, kata baku, padanan, EYD) + scripts/periksa.py
 │   ├── bahasa-marketing/     # SKILL.md + references/ (media sosial, copywriting)
 │   ├── bahasa-website/       # SKILL.md + references/ (UX writing, halaman situs)
 │   ├── bahasa-seo/           # SKILL.md + references/ (riset kata kunci, on-page)
 │   └── bahasa-peneliti/      # SKILL.md + references/ (kalimat akademik, struktur & sitasi)
 ├── sumber/                   # dokumentasi rujukan riset
+├── tests/                    # uji pemeriksa otomatis
 ├── CONTOH.md                 # bukti sebelum-sesudah lintas model
 └── README.md
 ```
 
 ## Pemeliharaan
 
-Daftar kata baku dan padanan istilah mengikuti KBBI/PASTI per Agustus 2026. Jika ragu pada satu lema, rujukan akhirnya selalu kbbi.kemdikbud.go.id, bukan daftar di repo ini.
+Daftar kata baku dan padanan istilah mengikuti KBBI/PASTI per November 2026. Jika ragu pada satu lema, rujukan akhirnya selalu kbbi.kemendikdasmen.go.id. Daftar penanda slop adalah potret: kosakata khas model bergeser tiap generasi, jadi `sumber/ai-slop.md` mencatat tanggal riset dan butir yang buktinya masih tipis.
 
