@@ -10,8 +10,8 @@ Gradien formalitas: **TikTok < Instagram ≈ X ≈ Facebook < email < LinkedIn.*
 
 - **±125 karakter pertama** tampil sebelum terpotong "…more": muat hook dan inti di sana. Sisanya untuk cerita dan CTA.
 - Struktur caption yang bekerja: **hook (1–2 baris), lalu isi/cerita dengan detail konkret, lalu CTA tunggal**.
-- Baris pendek (±8–11 kata) lebih enak dibaca di layar sempit; pakai ganti baris, bukan dinding teks.
-- **Hashtag: 3–5 yang spesifik**, campuran satu-dua bervolume besar + niche. Bukan 30, bukan #fyp #viral #trending. Letakkan di akhir caption atau komentar pertama; konsisten satu gaya.
+- Paragraf pendek, satu sampai dua kalimat, dipisah baris kosong. Kalimat ±8–11 kata enak dibaca di layar sempit. Tidak perlu satu kalimat per baris.
+- **Hashtag: maksimal 5 per unggahan.** Ini batas platform sejak Desember 2025 (diumumkan Adam Mosseri; berlaku untuk unggahan dan Reels), jadi caption dengan enam hashtag ditolak aplikasi. Pakai 3–5 yang spesifik untuk isi unggahan: nama merek, kategori produk, audiens atau lokasi (#kasirin, #aplikasikasir, #umkmjogja). Bukan #fyp #viral #trending. Letakkan di akhir caption; konsisten satu gaya.
 - Sapaan lazim: *kamu*. Emoji boleh 1–3 bila menambah nada, bukan sebagai bullet.
 - Carousel: slide 1 adalah hook mandiri (orang memutuskan geser atau tidak dari slide 1); satu gagasan per slide; slide terakhir berisi CTA.
 
@@ -22,6 +22,7 @@ Gradien formalitas: **TikTok < Instagram ≈ X ≈ Facebook < email < LinkedIn.*
 - Register paling santai: *kamu* atau bahasa tongkrongan sesuai persona; kalimat pendek-pendek; boleh partikel (*sih, dong, kan, deh*).
 - Jangan menulis skrip TikTok seperti artikel yang dibacakan. Tulis seperti orang bercerita ke kamera satu tarikan napas.
 - Caption TikTok pendek; kata kunci pencarian TikTok boleh dianyam natural (orang mencari di TikTok seperti di Google).
+- Hashtag: TikTok juga membatasi 5 per unggahan (sejak Agustus 2025, menurut laporan Kompas Tekno). Pilih yang menjelaskan isi video.
 
 ## X (Twitter)
 
@@ -52,7 +53,7 @@ Hook yang kuat berhenti di masalah nyata, pertanyaan menusuk, atau fakta pembuka
 |---|---|---|
 | **Masalah / Keresahan** | "Pernahkah Anda merasa kesulitan dalam mengelola keuangan bisnis Anda? Yuk simak tipsnya!" | "Uang kas masuk Rp50 juta, tapi pas dicek saldo akhir bulan tinggal Rp2 juta. Lari ke mana?" |
 | **Fakta / Bukti** | "Tahukah Anda bahwa kehadiran digital sangat penting untuk kesuksesan usaha Anda saat ini?" | "Toko sebelah sudah muncul di halaman satu Google. Tokomu di halaman berapa?" |
-| **Pengumuman Fitur** | "Kabar gembira! Kini telah hadir fitur QRIS yang siap merevolusi transaksi bisnis Anda!" | "Ada pembeli pegang HP, bukan dompet: 'Bisa bayar QRIS?' Mulai hari ini kamu tinggal jawab: bisa." |
+| **Pengumuman Fitur** | "Kabar gembira! Kini telah hadir fitur QRIS yang siap merevolusi transaksi bisnis Anda!" | "Pembeli yang cuma bawa HP sekarang tetap bisa bayar di warungmu. Kasirin sudah terima QRIS." |
 | **Edukasi / Tips** | "Di era modern ini, kita harus tahu 5 tips penting dalam memilih laptop untuk kerja." | "Tiga spesifikasi laptop yang sering bikin pembeli nyesel setelah 6 bulan pakai." |
 | **Karier / B2B** | "Sebagai profesional, membuka potensi penuh diri Anda adalah kunci meraih masa depan cerah." | "Satu kesalahan di CV yang paling sering bikin lamaran manajer gugur di 10 detik pertama." |
 

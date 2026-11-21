@@ -59,7 +59,7 @@ Aturan: satu materi satu CTA; CTA menyebut hasil/nilai, bukan mekanik kosong ("K
 
 ## Aturan klaim & superlatif (Etika Pariwara Indonesia)
 
-EPI melarang kata superlatif (*paling, nomor satu, top, ter-*, dan yang semakna) **tanpa bukti yang dapat dipertanggungjawabkan**. Preseden: Garnier, klaim "No 1 Micellar Water di Indonesia" tanpa sumber data, dinyatakan melanggar.
+EPI Amandemen 2020, Bab III.A butir 1.2.2: "Iklan tidak boleh menggunakan kata-kata superlatif seperti 'paling', 'nomor satu', 'top', atau kata-kata berawalan 'ter', dan/atau yang bermakna sama, kecuali jika disertai dengan bukti yang dapat dipertanggungjawabkan." Bukti berarti survei atau riset dari lembaga independen yang kredibel. EPI adalah kode etik industri (Dewan Periklanan Indonesia), tetapi klaim menyesatkan juga bisa dijerat UU Perlindungan Konsumen. Preseden: Garnier, klaim "No 1 Micellar Water di Indonesia" tanpa sumber data, dinyatakan melanggar.
 
 Praktiknya:
 
@@ -68,6 +68,7 @@ Praktiknya:
 3. Klaim hasil (kesehatan, kosmetik, finansial) hanya yang terdokumentasi; sertakan kualifikasi jujur ("hasil uji pada 33 responden selama 28 hari").
 4. Kata yang kena aturan: terbaik, termurah, terlengkap, tercepat, paling…, no. 1, satu-satunya, dijamin.
 5. "Diskon s.d. 70%": pastikan memang ada barang di 70%. Diskon maksimal yang hanya berlaku untuk satu barang yang sulit ditemukan itu menyesatkan.
+6. Kata lain yang diatur EPI (butir 1.2.3 menurut sumber sekunder; cek dokumen EPI untuk kampanye besar): *100%, murni, asli* harus bisa dibuktikan; *halal* hanya untuk produk bersertifikat resmi; *satu-satunya, hanya, cuma* harus menyebut dalam hal apa; *gratis* dan *cuma-cuma* tidak boleh dipakai bila konsumen masih membayar biaya lain.
 
 ## Email marketing
 

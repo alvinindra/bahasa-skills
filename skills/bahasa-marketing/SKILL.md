@@ -5,7 +5,7 @@ description: "Menulis materi pemasaran berbahasa Indonesia yang menjual tanpa te
 
 # Bahasa Marketing
 
-Skill ini menumpuk di atas `bahasa-inti`: seluruh larangan dan pemeriksaan di sana tetap berlaku penuh. Kalau folder `../bahasa-inti/references/` tersedia, baca [frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md) sebelum menulis; frasa pemasaran kosong ("solusi terbaik untuk kebutuhan Anda", "bawa bisnis ke level berikutnya") ada di sana dan haram di sini.
+Skill ini menumpuk di atas `bahasa-inti`: seluruh larangan dan pemeriksaan di sana tetap berlaku penuh, termasuk pemeriksa otomatis `../bahasa-inti/scripts/periksa.py`. Untuk materi di atas ±150 kata (email, landing copy, naskah iklan panjang), baca [frasa-terlarang.md](../bahasa-inti/references/frasa-terlarang.md) bagian 4 sebelum menulis; frasa pemasaran kosong ("solusi terbaik untuk kebutuhan Anda", "bawa bisnis ke level berikutnya") ada di sana dan terlarang di sini. Untuk caption pendek, larangan di halaman ini dan pemeriksa otomatis cukup.
 
 Prinsip dasarnya: **copy yang menjual itu spesifik dan jujur.** Detail harus berasal dari brief, materi produk, atau sumber yang bisa diperiksa. Jangan mengarang angka, tenggat, testimoni, atau adegan seolah-olah itu kejadian nyata. Kalau belum ada bukti, minta datanya atau tulis tanpa klaim tersebut. Spesifik bisa berarti menyebut situasi pembaca, langkah yang bisa dilakukan, atau detail produk yang memang diketahui; angka bukan syarat.
 
@@ -14,7 +14,7 @@ Prinsip dasarnya: **copy yang menjual itu spesifik dan jujur.** Detail harus ber
 1. **Produk & bukti**: apa yang dijual, dan fakta konkret apa yang dimiliki (harga, angka, tenggat, testimoni bernama)? Tanpa satu pun bukti, minta dulu ke pengguna; jangan mengarang.
 2. **Audiens**: siapa, di platform apa, sedang menggulir dalam suasana apa.
 3. **Sapaan**: satu saja, dari tabel di bawah.
-4. **Tujuan & satu CTA**: satu materi satu tindakan. Dua CTA berarti pembaca memilih tidak keduanya.
+4. **Tujuan & satu CTA**: satu materi satu tindakan. Dua CTA berarti pembaca memilih tidak keduanya. Kalau brief tidak menyebut tindakan atau kanalnya, pilih yang paling wajar dan catat sebagai asumsi.
 5. **Brand voice**: kalau merek punya panduan, ikuti; kalau tidak, turunkan dari audiens + sektor (tabel register).
 
 ## Sapaan dan register
@@ -33,7 +33,7 @@ Gradien formalitas antarplatform (paling santai ke paling formal): **TikTok < In
 ## Aturan emas
 
 1. **Manfaat dulu, fitur belakangan.** Fitur adalah apa yang produk punya; manfaat adalah apa yang berubah bagi pembeli. "RAM 8 GB" menjadi "buka 20 tab tanpa macet".
-2. **Superlatif tanpa bukti itu dilarang. Bukan cuma jelek, tapi melanggar Etika Pariwara Indonesia.** *Terbaik, termurah, no. 1, paling…* hanya boleh dengan bukti yang bisa dipertanggungjawabkan dan disebutkan ("terlaris kategori skincare di Tokopedia, Juni 2026"). Garnier pernah kena kasus persis karena "No 1 Micellar Water di Indonesia" tanpa sumber. Tanpa data: ganti klaim spesifik yang benar.
+2. **Superlatif tanpa bukti melanggar Etika Pariwara Indonesia (butir 1.2.2).** *Terbaik, termurah, no. 1, paling…* hanya boleh dengan bukti yang bisa dipertanggungjawabkan dan disebutkan ("terlaris kategori skincare di Tokopedia, Juni 2026"). Bukti menurut EPI berarti survei atau riset lembaga independen yang kredibel; tangkapan layar penjualan toko sendiri tidak cukup. Garnier pernah kena kasus persis karena "No 1 Micellar Water di Indonesia" tanpa sumber. Tanpa data: ganti klaim spesifik yang benar.
 3. **Pakai angka hanya jika ada dasarnya.** Angka mengalahkan kata sifat hanya ketika angka itu benar, relevan, dan jelas mengukur apa. Jangan membuat angka tampak janggal demi menarik perhatian.
 4. **Hook di baris pertama.** Di feed, hanya 1–2 baris pertama yang terbaca sebelum "…more". Mulai dari masalah yang benar-benar dialami audiens, detail berguna, atau klaim yang bisa dibuktikan. Hook tidak harus berupa slogan, permainan kontras, atau kalimat pendek berpasangan.
 5. **Tulis seperti bicara.** Uji baca nyaring lebih penting di marketing daripada di mana pun: kalau tidak akan kamu ucapkan ke teman, jangan tulis.
@@ -54,10 +54,11 @@ Gradien formalitas antarplatform (paling santai ke paling formal): **TikTok < In
 | "Rasakan perbedaannya / sensasinya / pengalamannya" | Verba generik penutup; sebut rasa, hasil, atau perubahan spesifik |
 | "Pilihan cerdas / investasi terbaik untuk masa depan Anda" | Label diri kosong; biarkan pembeli menyimpulkan dari bukti/angka |
 | "Halo Sobat …!" (generik) | Sapaan komunitas hanya milik merek yang memakainya |
-| Emoji bertubi (🚀✨🔥💯) atau emoji sebagai bullet | Maksimal 2–3 per caption, hanya bila menambah nada |
-| Hashtag dump (>5, atau hashtag generik #fyp #viral) | 3–5 hashtag spesifik; rincian di media-sosial.md |
+| Emoji bertubi (🚀✨🔥💯) atau emoji sebagai bullet | Maksimal 2–3 per caption, hanya bila menambah nada; tanpa emoji pun sah, termasuk untuk nada santai |
+| Hashtag dump (>5, atau hashtag generik #fyp #viral) | Instagram dan TikTok kini membatasi 5 hashtag per unggahan; pakai 3–5 yang spesifik (media-sosial.md) |
 | "Kepoin", "gercep", "auto-glowing" dipaksakan | Slang hanya bila memang bahasa audiens & persona merek |
 | Kata "GRATIS!!!" bertanda seru ganda | Satu tanda seru pun sudah keras; biarkan penawarannya yang berteriak |
+| "Gratis" padahal pembeli masih membayar biaya lain | EPI melarangnya; sebut syaratnya ("gratis ongkir untuk belanja di atas Rp100 ribu"). Kalau brief tidak menyebut syarat, tulis sesuai brief dan tanyakan syaratnya di catatan; jangan mengarang syarat |
 | Janji hasil pasti ("dijamin putih dalam 7 hari") | Klaim hasil butuh bukti; untuk kosmetik/kesehatan ada aturan iklan. Tulis hasil yang terdokumentasi |
 
 ## Campur kode (bahasa Jaksel)
@@ -66,7 +67,7 @@ Ukuran tunggalnya kejelasan, bukan gengsi. Ivan Lanin: campur kode diterima di l
 
 | Situasi | Putusan |
 |---|---|
-| Istilah niaga digital ternaturalisasi: *checkout, cashback, free trial, DM, e-wallet, pre-order* | Pakai; memaksakan padanan malah mengganggu |
+| Istilah niaga digital ternaturalisasi: *checkout, cashback, free trial, DM, e-wallet, pre-order, scan QRIS* | Pakai; memaksakan padanan malah mengganggu |
 | Ada padanan Indonesia yang wajar (*wishlist* jadi "produk idaman"; *download* jadi unduh) | Pakai padanannya |
 | Audiens muda urban, kanal santai, persona merek memang campur | Campuran ringan boleh, konsisten |
 | LinkedIn, email resmi, sektor finansial, audiens nasional luas | Jangan campur kode |
@@ -102,7 +103,7 @@ Setelah pemeriksaan wajib `bahasa-inti`:
 6. Adakah pengandaian mengawang-awang ("Bayangkan jika Anda...") tanpa situasi konkret?
 7. Baca baris pertama nyaring. Apakah terdengar seperti orang sungguhan menyampaikan hal yang relevan, atau seperti slogan yang dirakit agar terdengar tajam? Pastikan isi memenuhi janji hook.
 8. Apakah CTA cocok dengan manfaat isi? Minta orang menyimpan unggahan hanya jika isinya berguna sebagai rujukan nanti; selain itu pilih tindakan yang relevan atau hilangkan CTA.
-9. Hashtag ≤5 dan spesifik; emoji ≤3 dan bermakna?
+9. Hashtag ≤5 (batas platform) dan spesifik; emoji ≤3 dan bermakna? Caption bebas markdown (`**`, `#`, `-`), karena media sosial tidak merendernya?
 10. Bisakah kompetitor menempel logo mereka di copy ini tanpa terasa aneh? Kalau ya, belum cukup spesifik.
 
 ## Referensi
