@@ -1,0 +1,23 @@
+Nama dan nominal di bawah ini hanya contoh. Di aplikasi, keduanya diisi data sebenarnya.
+
+**1. Setoran gagal karena koneksi terputus**
+
+- Judul: Setoran belum tersimpan
+- Isi: Koneksi internet terputus sebelum setoran Rp20.000 untuk Dimas tercatat. Saldo Dimas belum berubah. Periksa koneksi Anda, lalu simpan lagi.
+- Tombol utama: Coba lagi
+- Tombol kedua: Tutup
+
+**2. Belum ada riwayat setoran**
+
+- Judul: Belum ada setoran
+- Isi: Setoran yang Anda catat akan muncul di sini, urut dari yang terbaru.
+- Tombol: Catat setoran
+
+**3. Konfirmasi sebelum menghapus data satu siswa**
+
+- Judul: Hapus data Dimas?
+- Isi: Seluruh riwayat setoran Dimas dan saldonya (Rp150.000) akan ikut terhapus. Data yang sudah dihapus tidak bisa dikembalikan.
+- Tombol utama: Hapus data
+- Tombol kedua: Batal
+
+Di pesan galat, kalimat "Saldo Dimas belum berubah" sengaja saya pertahankan karena yang pertama ditanyakan wali kelas saat setoran gagal adalah apakah uangnya sudah tercatat. Di dialog hapus, nominal saldo disebut supaya wali kelas ingat masih ada uang siswa yang perlu dikembalikan dulu; kalau saldonya nol, bagian dalam kurung bisa dihilangkan.

@@ -1,0 +1,376 @@
+{
+  "K-M1": {
+    "kondisi": "K",
+    "prompt": "M1",
+    "kata": 106,
+    "keras": 3,
+    "tinjau": 1,
+    "keras_per_100": 2.83,
+    "tinjau_per_100": 0.943,
+    "temuan": [
+      {
+        "kode": "L10",
+        "tingkat": "KERAS",
+        "nama": "templat belum diisi",
+        "kutipan": "[nomor WA]"
+      },
+      {
+        "kode": "L10",
+        "tingkat": "KERAS",
+        "nama": "templat belum diisi",
+        "kutipan": "[nomor WA]"
+      },
+      {
+        "kode": "L10",
+        "tingkat": "KERAS",
+        "nama": "hashtag berlebih",
+        "kutipan": "10 hashtag"
+      },
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "titik dua bertubi",
+        "kutipan": "4 kali dalam 106 kata"
+      }
+    ]
+  },
+  "G-M1": {
+    "kondisi": "G",
+    "prompt": "M1",
+    "kata": 94,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "S-M1": {
+    "kondisi": "S",
+    "prompt": "M1",
+    "kata": 121,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "K-M2": {
+    "kondisi": "K",
+    "prompt": "M2",
+    "kata": 105,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.952,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "titik dua bertubi",
+        "kutipan": "6 kali dalam 105 kata"
+      }
+    ]
+  },
+  "G-M2": {
+    "kondisi": "G",
+    "prompt": "M2",
+    "kata": 150,
+    "keras": 2,
+    "tinjau": 1,
+    "keras_per_100": 1.333,
+    "tinjau_per_100": 0.667,
+    "temuan": [
+      {
+        "kode": "L10",
+        "tingkat": "KERAS",
+        "nama": "templat belum diisi",
+        "kutipan": "[nama pengirim]"
+      },
+      {
+        "kode": "L10",
+        "tingkat": "KERAS",
+        "nama": "templat belum diisi",
+        "kutipan": "[nama pengirim]"
+      },
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "kalimat sangat pendek beruntun",
+        "kutipan": "3 kalimat ≤3 kata berturut-turut"
+      }
+    ]
+  },
+  "S-M2": {
+    "kondisi": "S",
+    "prompt": "M2",
+    "kata": 179,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.559,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "kalimat sangat pendek beruntun",
+        "kutipan": "3 kalimat ≤3 kata berturut-turut"
+      }
+    ]
+  },
+  "K-W1": {
+    "kondisi": "K",
+    "prompt": "W1",
+    "kata": 34,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "G-W1": {
+    "kondisi": "G",
+    "prompt": "W1",
+    "kata": 33,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "S-W1": {
+    "kondisi": "S",
+    "prompt": "W1",
+    "kata": 79,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 1.266,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "kalimat sangat pendek beruntun",
+        "kutipan": "3 kalimat ≤3 kata berturut-turut"
+      }
+    ]
+  },
+  "K-W2": {
+    "kondisi": "K",
+    "prompt": "W2",
+    "kata": 148,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.676,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "titik dua bertubi",
+        "kutipan": "13 kali dalam 148 kata"
+      }
+    ]
+  },
+  "G-W2": {
+    "kondisi": "G",
+    "prompt": "W2",
+    "kata": 176,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.568,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "titik dua bertubi",
+        "kutipan": "11 kali dalam 176 kata"
+      }
+    ]
+  },
+  "S-W2": {
+    "kondisi": "S",
+    "prompt": "W2",
+    "kata": 141,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.709,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "titik dua bertubi",
+        "kutipan": "12 kali dalam 141 kata"
+      }
+    ]
+  },
+  "K-S1": {
+    "kondisi": "K",
+    "prompt": "S1",
+    "kata": 62,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "G-S1": {
+    "kondisi": "G",
+    "prompt": "S1",
+    "kata": 67,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "S-S1": {
+    "kondisi": "S",
+    "prompt": "S1",
+    "kata": 97,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "K-S2": {
+    "kondisi": "K",
+    "prompt": "S2",
+    "kata": 256,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.391,
+    "temuan": [
+      {
+        "kode": "L10",
+        "tingkat": "TINJAU",
+        "nama": "subjudul pada teks pendek",
+        "kutipan": "3 judul, 256 kata"
+      }
+    ]
+  },
+  "G-S2": {
+    "kondisi": "G",
+    "prompt": "S2",
+    "kata": 265,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.377,
+    "temuan": [
+      {
+        "kode": "L7",
+        "tingkat": "TINJAU",
+        "nama": "kata pengisi",
+        "kutipan": "pastinya"
+      }
+    ]
+  },
+  "S-S2": {
+    "kondisi": "S",
+    "prompt": "S2",
+    "kata": 336,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "K-P1": {
+    "kondisi": "K",
+    "prompt": "P1",
+    "kata": 101,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "G-P1": {
+    "kondisi": "G",
+    "prompt": "P1",
+    "kata": 111,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.901,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "panjang kalimat seragam",
+        "kutipan": "rata-rata 18 kata, simpangan 4.8"
+      }
+    ]
+  },
+  "S-P1": {
+    "kondisi": "S",
+    "prompt": "P1",
+    "kata": 161,
+    "keras": 0,
+    "tinjau": 0,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.0,
+    "temuan": []
+  },
+  "K-I1": {
+    "kondisi": "K",
+    "prompt": "I1",
+    "kata": 92,
+    "keras": 0,
+    "tinjau": 2,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 2.174,
+    "temuan": [
+      {
+        "kode": "TB",
+        "tingkat": "TINJAU",
+        "nama": "verba semu",
+        "kutipan": "melakukan perubahan"
+      },
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "kalimat sangat pendek beruntun",
+        "kutipan": "3 kalimat ≤3 kata berturut-turut"
+      }
+    ]
+  },
+  "G-I1": {
+    "kondisi": "G",
+    "prompt": "I1",
+    "kata": 92,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 1.087,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "kalimat sangat pendek beruntun",
+        "kutipan": "3 kalimat ≤3 kata berturut-turut"
+      }
+    ]
+  },
+  "S-I1": {
+    "kondisi": "S",
+    "prompt": "I1",
+    "kata": 158,
+    "keras": 0,
+    "tinjau": 1,
+    "keras_per_100": 0.0,
+    "tinjau_per_100": 0.633,
+    "temuan": [
+      {
+        "kode": "PG",
+        "tingkat": "TINJAU",
+        "nama": "kalimat sangat pendek beruntun",
+        "kutipan": "3 kalimat ≤3 kata berturut-turut"
+      }
+    ]
+  }
+}

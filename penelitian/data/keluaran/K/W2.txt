@@ -1,0 +1,23 @@
+Berikut microcopy untuk ketiga kondisi. Teks dalam {kurung kurawal} diisi otomatis oleh aplikasi.
+
+**1. Pesan galat: setoran gagal karena koneksi terputus**
+
+- Judul: Setoran belum tersimpan
+- Isi: Koneksi internet terputus, jadi setoran {nominal} untuk {nama siswa} belum tercatat. Periksa koneksi Anda, lalu coba lagi.
+- Tombol utama: Coba Lagi
+- Tombol sekunder: Tutup
+
+**2. Empty state: belum ada riwayat setoran**
+
+- Judul: Belum ada setoran
+- Isi: Setoran yang Anda catat akan muncul di sini, lengkap dengan tanggal dan jumlahnya.
+- Tombol: Catat Setoran
+
+**3. Dialog konfirmasi: hapus data satu siswa**
+
+- Judul: Hapus data {nama siswa}?
+- Isi: Saldo dan seluruh riwayat setoran {nama siswa} akan ikut terhapus dan tidak dapat dikembalikan.
+- Tombol utama (destruktif): Hapus Data Siswa
+- Tombol sekunder: Batal
+
+Dialog hapus saya tulis dengan asumsi penghapusan bersifat permanen dan mencakup saldo serta riwayat. Jika data masih bisa dipulihkan, kalimat isinya perlu disesuaikan.

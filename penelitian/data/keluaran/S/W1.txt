@@ -1,0 +1,12 @@
+Headline:
+Rekap setoran angkot otomatis masuk ke WhatsApp Anda setiap minggu
+
+Subheadline:
+Setoran harian dicatat lewat ponsel di Setorin, aplikasi untuk pemilik angkot dan sopirnya. Gratis untuk 1 kendaraan, lalu Rp15.000 per bulan untuk tiap kendaraan berikutnya.
+
+Tombol utama:
+Mulai catat setoran
+
+Catatan:
+- "Anda" di sini pemilik angkot, karena rekap dikirim ke WhatsApp pemilik.
+- Brief tidak menyebut tombol mengarah ke unduhan atau pendaftaran, jadi labelnya dibuat netral. Kalau alurnya sudah pasti, ganti dengan verba yang sesuai.

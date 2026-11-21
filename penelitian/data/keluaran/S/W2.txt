@@ -1,0 +1,23 @@
+1. Pesan galat saat setoran gagal karena koneksi terputus
+
+Judul: Setoran belum tercatat
+Isi: Koneksi internet terputus sehingga saldo siswa belum berubah. Periksa Wi-Fi atau data seluler Anda, lalu coba lagi.
+Tombol utama: Coba lagi
+Tombol kedua: Tutup
+
+2. Empty state saat belum ada riwayat setoran
+
+Judul: Belum ada riwayat setoran
+Isi: Setiap setoran yang Anda catat akan muncul di sini.
+Tombol: Catat setoran
+
+3. Dialog konfirmasi sebelum menghapus data satu siswa
+
+Judul: Hapus data {nama siswa}?
+Isi: Riwayat setoran dan saldo siswa ini ikut terhapus dan tidak bisa dikembalikan.
+Tombol utama: Hapus data
+Tombol kedua: Batal
+
+Catatan:
+- {nama siswa} adalah variabel; aplikasi mengisinya dengan nama siswa yang dipilih.
+- Asumsi: setoran yang gagal tidak mengubah saldo, dan menghapus siswa bersifat permanen serta ikut menghapus riwayat setoran dan saldonya. Kalau perilaku aplikasinya berbeda, isi nomor 1 dan 3 perlu disesuaikan.

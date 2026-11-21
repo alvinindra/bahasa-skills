@@ -1,0 +1,20 @@
+Subjek: Jam kerja kantor pusat menjadi 07.30 sampai 16.30 mulai Senin, 4 Januari 2027
+
+Rekan-rekan karyawan PT Sagara Logistik,
+
+Mulai Senin, 4 Januari 2027, jam kerja kantor pusat berubah dari pukul 08.00 sampai 17.00 menjadi pukul 07.30 sampai 16.30. Jam masuk dan jam pulang sama-sama maju 30 menit, jadi lama kerja per hari tetap.
+
+Perubahan ini hanya berlaku untuk karyawan kantor pusat. Jam kerja karyawan gudang tidak berubah.
+
+Jam kerja kantor pusat kami majukan agar sesuai dengan jadwal bongkar muat pelabuhan.
+
+Silakan kirim pertanyaan tentang perubahan ini ke Bagian SDM melalui sdm@sagaralogistik.example.
+
+Salam,
+
+Kepala Bagian SDM
+PT Sagara Logistik
+
+Catatan:
+- Nama Kepala Bagian SDM tidak ada di permintaan, jadi tanda tangan hanya memuat jabatan. Tambahkan nama di atasnya sebelum dikirim.
+- Kalimat "lama kerja per hari tetap" saya turunkan dari selisih jam (sama-sama sembilan jam). Jam istirahat tidak saya sebut karena tidak ada di permintaan; tambahkan bila ikut bergeser.
