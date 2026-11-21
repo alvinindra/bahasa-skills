@@ -36,7 +36,7 @@ Data kesalahan skripsi menempatkan **struktur kalimat (34%)**, ejaan (21%), dan 
 4. **Kehematan.** Pleonasme dan kopula ganda dibuang (*adalah merupakan*; *agar supaya*; *disebabkan karena* menjadi *disebabkan oleh* atau *karena*).
 5. **Nominalisasi: preferensi, bukan larangan.** Verba tunggal lebih tajam ("menganalisis" mengalahkan "melakukan analisis"), tetapi nominalisasi sah bila konsepnya memang nomina ("hasil analisis menunjukkan…"). Yang mutlak bentuk bakunya: *analisis/menganalisis*, bukan *analisa/menganalisa*.
 6. **Konsistensi istilah total.** Satu konsep satu istilah sepanjang naskah (pilih "partisipan" atau "responden" atau "subjek"; satu saja). Variasi sinonim yang di tulisan populer disebut gaya, di karya ilmiah disebut ambigu.
-7. **Istilah asing**: *miring*; padanan Indonesia diberikan saat pertama muncul, misalnya "beban kognitif (*cognitive load*)"; selanjutnya pakai satu bentuk itu terus. Rujukan padanan: glosarium/PASTI Kemdikbud.
+7. **Istilah asing**: *miring*; padanan Indonesia diberikan saat pertama muncul, misalnya "beban kognitif (*cognitive load*)"; selanjutnya pakai satu bentuk itu terus. Rujukan padanan: PASTI Badan Bahasa (pasti.kemendikdasmen.go.id).
 8. **Definisi operasional** untuk istilah kunci di awal; jangan biarkan pembaca menebak makna variabel.
 
 ## Larangan pembuka dan penutup akademik
@@ -64,6 +64,8 @@ Struktur latar belakang yang bekerja: fenomena berdata → apa yang sudah diketa
 | "penelitian ini sangat menarik/penting" | tunjukkan lewat kesenjangan & implikasi |
 | Parafrase kosmetik (menukar sinonim dari sumber) | pahami, tutup sumber, tulis ulang dari pemahaman + sitasi |
 
+Permintaan "turunkan skor AI/Turnitin" tidak dilayani dengan memutar sinonim atau merusak kalimat. Perbaiki mutu tulisannya, lalu arahkan pengguna ke aturan keterbukaan pemakaian AI di kampus atau jurnalnya (lihat [../bahasa-inti/references/penyuntingan.md](../bahasa-inti/references/penyuntingan.md)). Skor detektor bukan ukuran mutu dan bisa salah menuduh tulisan manusia.
+
 ## Struktur naskah
 
 Struktur artikel jurnal umum (IMRaD versi Indonesia): Judul → Abstrak → Kata kunci → Pendahuluan → Metode → Hasil → Pembahasan → Kesimpulan → Daftar Pustaka. Sebagian jurnal humaniora memakai struktur non-IMRaD; selalu cek gaya selingkung.
@@ -86,6 +88,7 @@ Setelah pemeriksaan `bahasa-inti`:
 5. Satu istilah per konsep sepanjang naskah; istilah asing miring + padanan di kemunculan pertama?
 6. Abstrak 150–250 kata memuat lima unsur, angka hasil disebut?
 7. Setiap klaim di pendahuluan/pembahasan tertaut rujukan atau penanda verifikasi?
+8. Pemeriksa otomatis dijalankan dengan `--ragam resmi` (`../bahasa-inti/scripts/periksa.py`)?
 
 ## Referensi
 

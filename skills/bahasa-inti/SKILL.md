@@ -1,6 +1,6 @@
 ---
 name: bahasa-inti
-description: "Aturan inti menulis bahasa Indonesia yang bermutu, manusiawi, dan bebas AI slop. WAJIB dipakai setiap kali menulis, menyunting, atau menerjemahkan teks berbahasa Indonesia apa pun: artikel, caption, salinan situs, email, laporan, naskah, pesan, dokumentasi. Termasuk saat pengguna hanya berkata 'tulis dalam bahasa Indonesia', 'buatkan kontennya', 'perbaiki tulisan ini', 'bikin lebih natural', atau saat jawaban akan disampaikan dalam bahasa Indonesia. Berlaku untuk semua ragam, dari resmi sampai santai. (Core Indonesian writing quality and anti AI-slop rules; use for ANY Indonesian-language writing, editing, or translation task.)"
+description: "Aturan inti menulis bahasa Indonesia yang bermutu, manusiawi, dan bebas AI slop. WAJIB dipakai setiap kali menulis, menyunting, memeriksa, atau menerjemahkan teks berbahasa Indonesia apa pun: artikel, caption, salinan situs, email, laporan, naskah, pesan, dokumentasi. Termasuk saat pengguna hanya berkata 'tulis dalam bahasa Indonesia', 'buatkan kontennya', 'perbaiki tulisan ini', 'bikin lebih natural', 'biar nggak kayak AI', 'humanize', 'cek tulisan ini', atau saat jawaban akan disampaikan dalam bahasa Indonesia. Berlaku untuk semua ragam, dari resmi sampai santai. (Core Indonesian writing quality and anti AI-slop rules; use for ANY Indonesian-language writing, editing, reviewing, or translation task.)"
 ---
 
 # Bahasa Inti: Menulis Bahasa Indonesia tanpa Slop
@@ -11,7 +11,11 @@ Prinsip kerjanya satu kalimat: **tulisan slop adalah tulisan yang bisa ditulis s
 
 ## Protokol
 
-Gunakan aturan inti yang relevan dengan tugas; skill kategori menambahkan aturan khususnya. Tentukan pembaca, ragam, medium, dan pesan utama bila keputusan itu berpengaruh pada hasil. Baca `references/` hanya sesuai kolom "Baca ketika". Sebelum menyerahkan, jalankan pemeriksaan inti yang relevan dan pemeriksaan kategori; jangan mengulang butir yang sama.
+1. **Tentukan mode.** Menulis teks baru, menyunting teks yang ada, atau memeriksa saja. Untuk dua mode terakhir, baca [references/penyuntingan.md](references/penyuntingan.md) lebih dulu: isi dan suara penulis tidak boleh berubah.
+2. Tentukan pembaca, ragam, medium, dan pesan utama bila keputusan itu memengaruhi hasil.
+3. Baca `references/` hanya sesuai kolom "Baca ketika".
+4. Tulis, lalu jalankan pemeriksaan inti dan pemeriksaan kategori yang relevan. Jangan mengulang butir yang sama.
+5. Serahkan naskahnya saja, tanpa pengantar. Asumsi dan klaim yang belum bersumber dicatat sesudah naskah, paling banyak tiga baris, dahulukan yang mengubah keputusan pengguna. (Di mode memeriksa, keluarannya laporan temuan.)
 
 ## Empat keputusan awal
 
@@ -38,42 +42,47 @@ Tentukan sebelum kalimat pertama; jangan menulis dalam keadaan ragu-ragu ragam.
 
 ## Sepuluh Larangan Keras
 
-Toleransi: nol. Satu pelanggaran berarti kalimatnya ditulis ulang. Daftar lengkap per kategori ada di [references/frasa-terlarang.md](references/frasa-terlarang.md); sepuluh kelompok di bawah adalah intinya.
+Satu pelanggaran berarti kalimatnya ditulis ulang. Daftar lengkap ada di [references/frasa-terlarang.md](references/frasa-terlarang.md); sepuluh kelompok di bawah adalah intinya.
 
-**L1. Pembuka klise zaman.** "Di era digital yang serba cepat ini…", "Seiring perkembangan teknologi…", "Di zaman modern seperti sekarang…", "Tidak dapat dipungkiri bahwa…", "Dewasa ini…". Pembuka ini bisa menempel pada topik apa pun, artinya tidak mengatakan apa-apa. Mulai dari fakta, angka, klaim, atau adegan yang spesifik untuk topiknya.
+**L1. Pembuka klise zaman.** "Di era digital yang serba cepat ini…", "Seiring perkembangan teknologi…", "Di zaman modern seperti sekarang…", "Tidak dapat dipungkiri bahwa…", "Dewasa ini…", "Pernahkah Anda bertanya-tanya…". Pembuka ini bisa menempel pada topik apa pun, artinya tidak mengatakan apa-apa. Mulai dari fakta, angka, klaim, atau situasi yang spesifik untuk topiknya.
 
-**L2. Penutup ritual.** "Sebagai kesimpulan…", "Demikianlah artikel tentang…", "Semoga bermanfaat!", "Jadi, tunggu apa lagi?", "Selamat mencoba!". Tutup dengan hal yang berguna: langkah berikutnya, keputusan, temuan terakhir. Atau berhenti begitu isi selesai.
+**L2. Penutup ritual.** "Sebagai kesimpulan…", "Demikianlah artikel tentang…", "Semoga bermanfaat!", "Jadi, tunggu apa lagi?", "Selamat mencoba!", "Pada akhirnya, semua kembali kepada Anda". Tutup dengan hal yang berguna: langkah berikutnya, keputusan, temuan terakhir. Atau berhenti begitu isi selesai.
 
-**L3. Paralelisme negatif.** "Bukan hanya X, tetapi juga Y", "bukan sekadar X, melainkan Y", "X bukan lagi pilihan, melainkan keharusan", "lebih dari sekadar X". Ini pola kalimat AI nomor satu. Pilih sisi yang benar dan tulis itu saja.
+**L3. Paralelisme negatif.** "Bukan hanya X, tetapi juga Y", "bukan sekadar X, melainkan Y", "X bukan lagi pilihan, melainkan keharusan", "lebih dari sekadar X", "Ini bukan soal X. Ini soal Y." Berlaku juga untuk bentuk terbaliknya ("Y, bukan X", "Y alih-alih X") bila tak seorang pun menduga X. Tulis sisi yang benar saja.
 
-**L4. Tripel kosong (rule of three).** "Cepat, mudah, dan terjangkau", "aman, nyaman, dan terpercaya". Tiga kata sifat beruntun hampir selalu berarti tak satu pun dipikirkan. Pilih satu yang paling benar, atau ganti dengan bukti.
+**L4. Tripel kosong (rule of three).** "Cepat, mudah, dan terjangkau", "aman, nyaman, dan tepercaya". Tiga kata sifat beruntun hampir selalu berarti tak satu pun dipikirkan. Pilih satu yang paling benar, atau ganti dengan bukti.
 
-**L5. Kosakata slop.** Kata yang melonjak karena mesin, bukan karena penutur: **hiruk pikuk** (penanda ChatGPT paling dikenali di Indonesia; jangan pernah dipakai), *lanskap* (kiasan), *ranah*, *krusial*, *menyelami*, *menggarisbawahi*, *menyoroti* (kiasan), *mulus/tanpa hambatan*, *tangguh* (untuk produk), *garda terdepan*, *mercusuar*, *jalinan/permadani* (kiasan), *membuka potensi*, *bukti nyata komitmen*, *game changer*, serta jembatan pemasaran klise (*kini hadir sebagai solusi*, *tak perlu khawatir lagi*, *siap menemani*). Padanannya ada di daftar lengkap.
+**L5. Kosakata slop.** Kata yang melonjak karena mesin: **hiruk pikuk** (penanda yang paling sering disebut pembaca Indonesia), *lanskap* (kiasan), *ranah*, *krusial*, *menyelami*, *menggarisbawahi*, *menyoroti* (kiasan), *mulus/tanpa hambatan*, *tangguh* (untuk produk), *garda terdepan*, *mercusuar*, *membuka potensi*, *bukti nyata komitmen*, *game changer*, *memainkan peran penting*; kiasan tekstil dan puitis (*permadani, merajut masa depan, menjelma, simfoni*); serta jembatan pemasaran klise (*kini hadir sebagai solusi*, *tak perlu khawatir lagi*, *siap menemani*). Padanannya ada di daftar lengkap.
 
-**L6. Transisi klise beruntun.** *Selain itu, Tidak hanya itu, Namun demikian, Oleh karena itu, Dengan demikian, Di sisi lain, Selanjutnya*: masing-masing maksimal satu kali per teks, dan jangan pernah dua paragraf berturut-turut dibuka kata transisi. Paragraf yang urutannya benar tersambung lewat isi, bukan lewat lem.
+**L6. Transisi klise beruntun.** *Selain itu, Tidak hanya itu, Namun demikian, Oleh karena itu, Dengan demikian, Di sisi lain, Selanjutnya*. Dua paragraf berturut-turut tidak boleh dibuka kata transisi, dan frasa yang sama tidak diulang dalam jarak dekat (patokan: sekali per ±400 kata). Paragraf yang urutannya benar tersambung lewat isinya.
 
-**L7. Kalimat meta dan kalimat kosong.** "Artikel ini akan membahas…", "Perlu diketahui bahwa…", "Penting untuk dicatat bahwa…", "Seperti yang kita ketahui…". Semua itu kalimat tentang tulisan, bukan tentang topik. Hapus; langsung katakan isinya. Uji: kalau kalimat dihapus dan tak ada informasi hilang, kalimat itu memang harus dihapus.
+**L7. Kalimat meta dan kata pengisi.** "Artikel ini akan membahas…", "Perlu diketahui bahwa…", "Penting untuk dicatat bahwa…", "Seperti yang kita ketahui…", *tentunya, pastinya, sejatinya, pada dasarnya*, serta pertanyaan yang dijawab sendiri ("Hasilnya? …", "Mengapa ini penting? Karena…"). Uji: kalau kalimat atau kata itu dihapus dan tak ada informasi hilang, hapus. Peta isi yang membawa informasi ("tujuh langkah di bawah…") boleh; janji tanpa isi tidak.
 
-**L8. Kabur dan lindung nilai bertumpuk.** "Para ahli menilai…", "sejumlah penelitian menunjukkan…", "banyak orang percaya…" tanpa nama; "mungkin bisa jadi cenderung relatif". Sebut nama dan tahun, beri angka, atau buang klaimnya.
+**L8. Kabur dan lindung nilai bertumpuk.** "Para ahli menilai…", "sejumlah penelitian menunjukkan…", "banyak orang percaya…" tanpa nama; "mungkin bisa jadi cenderung relatif"; penyeimbang tanpa isi ("setiap pilihan punya kelebihan dan kekurangan"). Sebut nama dan tahun, beri angka, ambil sikap, atau buang klaimnya.
 
-**L9. Menjilat dan bersolek.** "Pertanyaan yang bagus!", "Anda benar sekali!", superlatif tanpa data (*terbaik, no. 1, revolusioner, luar biasa*). Jawab saja; buktikan dengan spesifik, bukan dengan kata seru.
+**L9. Jejak asisten, menjilat, dan bersolek.** "Tentu! Berikut adalah…", "Semoga membantu!", "Apakah Anda ingin saya…?", "Pertanyaan yang bagus!", "Anda benar sekali!", templat yang belum diisi ("[Nama Perusahaan]"), dan superlatif tanpa data (*terbaik, no. 1, revolusioner, luar biasa*). Jawab saja; buktikan dengan hal spesifik.
 
-**L10. Slop format.** Judul ber-Title Case ("Dampak Teknologi Dan Digitalisasi"; yang benar hanya kata pertama dan nama diri yang kapital), bold di tiap istilah, bullet untuk isi yang seharusnya prosa, emoji sebagai butir daftar atau hiasan, heading bertingkat untuk teks pendek, garis pemisah sebelum tiap bagian, dan **em dash (—) sebagai tanda baca gaya**. Em dash sebagai tanda baca gaya dilarang total. Dalam ragam resmi dan konsultatif, jangan gunakan em dash sama sekali; untuk rentang angka atau tempat, tulis "sampai". Dalam ragam lain, em dash hanya boleh untuk rentang angka/tempat (2020—2025). Format mengikuti isi, bukan menghiasinya.
+**L10. Slop format.** Kata tugas dikapitalkan di judul ("Dampak Teknologi Dan Digitalisasi"; EYD V meminta *dan, di, ke, dari, untuk, yang, dengan* tetap kecil kecuali di awal judul), dua gaya kapital bercampur, bold di tiap istilah, bullet untuk isi yang seharusnya prosa, emoji sebagai butir daftar atau hiasan, subjudul bertingkat untuk teks pendek, garis pemisah sebelum tiap bagian, markdown mentah di medium yang tidak merendernya, dan **tanda pisah (—) sebagai tanda baca gaya**. Dalam ragam resmi dan konsultatif, jangan gunakan tanda pisah sama sekali; rentang ditulis "sampai". Dalam ragam lain, tanda pisah hanya boleh untuk rentang angka atau tempat (2020—2025). Format mengikuti isi.
+
+### Jangan menukar slop dengan slop
+
+Larangan yang dipatuhi secara mekanis melahirkan pola baru di sebelahnya: tanda pisah berganti titik dua "pengumuman" di tiap paragraf, "bukan hanya X" berganti "X. Bukan Y.", *krusial* berganti *vital*, pembuka klise berganti pertanyaan retoris yang seragam, transisi berganti kalimat pendek dramatis beruntun. Bentuk kalimat apa pun yang muncul tiga kali akan terbaca sebagai pola. Sebaliknya, jangan memburu yang bukan slop: tata bahasa rapi, kata sederhana (*adalah, punya, memakai*), satu *sangat* yang jujur, dan konvensi genre. Jangan pernah menyelipkan salah ketik supaya "terasa manusia". Rinciannya di bagian 9 dan 10 daftar lengkap.
 
 ## Kewajiban
 
 Anti-slop bukan cuma menghindari; ini yang harus hadir:
 
-1. **Spesifik di kalimat pertama.** Mulai dengan detail topik yang memang diketahui, pertanyaan relevan, atau konteks pembaca. Jangan menciptakan angka, nama, tempat, atau kejadian seolah-olah nyata demi tampak spesifik.
-2. **Setiap klaim faktual punya dasar.** Angka, nama, contoh, dan adegan faktual harus berasal dari materi pengguna atau sumber yang bisa diperiksa; jangan mengarangnya untuk membuat tulisan terasa spesifik. Jika dasar tidak tersedia, tanyakan, nyatakan batas pengetahuan, atau hapus klaim. Tidak semua kalimat perlu angka atau contoh.
-3. **Verba kuat, bukan bungkus nomina.** *Melakukan analisis* menjadi *menganalisis*; *memberikan penjelasan* menjadi *menjelaskan*; *mengalami peningkatan* menjadi *naik*. (Di ragam ilmiah nominalisasi kadang wajar; lihat `bahasa-peneliti`.)
+1. **Spesifik di kalimat pertama.** Mulai dengan detail topik yang memang diketahui, pertanyaan relevan, atau konteks pembaca. Situasi umum yang wajar dialami pembaca boleh ditulis ("pembeli yang cuma bawa HP"). Yang dilarang adalah detail yang terbaca sebagai fakta: angka, nama, tempat, kutipan, atau kejadian tertentu yang tidak ada di brief.
+2. **Setiap klaim faktual punya dasar.** Angka, nama, contoh, dan adegan faktual harus berasal dari materi pengguna atau sumber yang bisa diperiksa. Jika dasar tidak tersedia, tanyakan, nyatakan batas pengetahuan, atau hapus klaim. Pengetahuan umum yang mapan (isi aturan 50/30/20, definisi istilah) tidak perlu sumber; statistik, harga, dan hasil riset perlu. Tidak semua kalimat perlu angka atau contoh.
+3. **Verba kuat.** *Melakukan analisis* menjadi *menganalisis*; *memberikan penjelasan* menjadi *menjelaskan*; *mengalami peningkatan* menjadi *naik*. (Di ragam ilmiah nominalisasi kadang wajar; lihat `bahasa-peneliti`.)
 4. **Kalimat aktif sebagai bawaan.** Pasif hanya jika pelaku memang tak penting atau tak diketahui.
-5. **Panjang kalimat bervariasi.** Deret kalimat 15–20 kata semua adalah ritme mesin. Selingi kalimat pendek. Sangat pendek juga boleh.
+5. **Panjang kalimat bervariasi** pada teks enam kalimat ke atas. Deret kalimat 15–20 kata semua adalah ritme mesin. Selingi kalimat pendek; jangan pula membuat semuanya pendek.
 6. **Urutan D-M.** Yang diterangkan dulu: *media sosial* (bukan *sosial media*), *pemasaran digital*, *toko daring*.
 7. **Satu istilah untuk satu konsep** sepanjang teks; jangan "produk" berganti "barang" berganti "item".
 8. **Satu sapaan.** *Anda* (selalu kapital) atau *kamu* atau *lo*: pilih satu, pertahankan sampai akhir.
 9. **Istilah asing**: pakai padanan yang **lazim** (*unduh, daring, tautan, warganet*); istilah asing yang belum terserap ditulis *miring*; jangan pilih padanan kaku yang lebih asing dari aslinya (*tetikus*, *peladen*). Lihat [references/padanan-istilah.md](references/padanan-istilah.md).
-10. **Baca nyaring sebelum serah.** Kalimat yang tak akan diucapkan manusia ke manusia harus ditulis ulang.
+10. **Ambil sikap.** Kalau diminta menilai, memilih, atau menyarankan, sebut pilihannya dan alasannya. "Tergantung kebutuhan" hanya sah bila diikuti kebutuhan mana menuju pilihan mana.
+11. **Baca nyaring sebelum serah.** Kalimat yang tak akan diucapkan manusia ke manusia harus ditulis ulang.
 
 ## Kaidah tata bahasa yang paling sering dilanggar
 
@@ -85,26 +94,35 @@ Ringkasan; rincian dan tabel lengkap di [references/ejaan-eyd.md](references/eja
 - **Pleonasme dibuang:** *agar supaya, naik ke atas, masuk ke dalam, para hadirin, sangat … sekali, saling bantu-membantu, dalam rangka untuk, sejak dari*.
 - **Satu konjungsi per hubungan:** *meskipun* tanpa *tetapi*; *karena* tanpa *maka*.
 - **Subjek tidak diawali kata depan:** "Bagi peserta dipersilakan…" menjadi "Peserta dipersilakan…"; "Dalam laporan ini menunjukkan…" menjadi "Laporan ini menunjukkan…".
-- **Kata baku yang paling sering salah:** silakan (bukan *silahkan*), sekadar, risiko, praktik, analisis, mengubah (bukan *merubah*), izin, aktivitas, memengaruhi, napas, utang, andal, imbau, teknik, jadwal, Anda (kapital). Lengkapnya ±100 pasang di [references/kata-baku.md](references/kata-baku.md).
-- **Koma:** wajib sebelum *dan/atau* pada rincian tiga unsur atau lebih; wajib setelah konjungsi antarkalimat (*Namun, … Jadi, …*); haram di antara subjek dan predikat.
+- **Rujukan jelas:** "hal ini" dan "tersebut" di tiap kalimat diganti nama bendanya.
+- **Kata baku yang paling sering salah:** silakan (bukan *silahkan*), sekadar, risiko, praktik, analisis, mengubah (bukan *merubah*), izin, aktivitas, memengaruhi, memperhatikan, tepercaya, napas, utang, andal, imbau, teknik, jadwal, Anda (kapital). Lengkapnya ±110 pasang di [references/kata-baku.md](references/kata-baku.md).
+- **Koma:** wajib sebelum *dan/atau* pada rincian tiga unsur atau lebih; wajib setelah konjungsi antarkalimat (*Namun, … Jadi, …*); tidak boleh di antara subjek dan predikat.
 
 ## Pemeriksaan Wajib
 
 Jalankan pada draf final sesuai tugas. Lewati butir yang tidak relevan dan hindari pemeriksaan ganda dengan skill kategori. Perbaiki temuan sebelum menyerahkan.
 
-1. **Pindai frasa terlarang** (L1 sampai L9, plus daftar lengkap di references). Satu temuan pun: tulis ulang kalimatnya, bukan sekadar menghapus frasanya.
-2. **Pindai kata nonbaku dan "di mana/yang mana"** sebagai penghubung. Cek juga *di-/di* dan *sosial media* yang seharusnya *media sosial*.
-3. **Format:** ada em dash (—)? Dalam ragam resmi/konsultatif, ganti semuanya dengan "sampai" untuk rentang atau tanda baca yang sesuai. Dalam ragam lain, em dash hanya boleh untuk rentang angka/tempat. Periksa juga transisi klise, tripel kata sifat, emoji hias, dan bold berlebihan.
-4. **Uji dasar klaim:** apakah setiap angka, nama, contoh, dan adegan faktual bersumber? Jika tidak, verifikasi, tanyakan, atau hapus. Jangan menambahkan detail rekaan demi memenuhi pemeriksaan ini.
-5. **Uji hapus:** hapus kalimat pertama dan terakhir dalam pikiran. Kalau makna utuh, keduanya memang harus dihapus.
-6. **Uji baca nyaring:** adakah kalimat yang janggal diucapkan? Tulis ulang seperti menjelaskan ke satu orang nyata.
-7. **Uji konsistensi:** satu sapaan, satu istilah per konsep, ragam seragam dari judul sampai tombol/penutup.
+1. **Jalankan pemeriksa otomatis bila perintah bisa dijalankan.** Simpan draf ke berkas sementara, lalu:
+
+   ```bash
+   python3 /path/ke/bahasa-inti/scripts/periksa.py --ragam <resmi|konsultatif|santai|akrab> <berkas>
+   ```
+
+   Skripnya ada di folder `scripts/` di samping berkas ini; pakai path absolutnya. Tambahkan `--seo` untuk judul artikel (cek 60 karakter). Yang diperiksa naskahnya; catatan untuk pengguna dan laporan temuan tidak perlu. Temuan KERAS ditulis ulang; temuan TINJAU dinilai (sah bila ada alasannya). Skrip hanya mengenali kata dan tanda baca, jadi nol temuan belum berarti lolos. Tanpa akses perintah, pindai sendiri L1 sampai L10, kata nonbaku, "di mana/yang mana", *di-/di*, dan format.
+2. **Uji pola pengganti:** adakah bentuk kalimat yang muncul tiga kali atau lebih (titik dua pengumuman, "X, bukan Y", kalimat tiga kata beruntun, pertanyaan retoris)? Ubah sebagian.
+3. **Uji dasar klaim:** apakah setiap angka, nama, contoh, dan adegan faktual bersumber? Jika tidak, verifikasi, tanyakan, atau hapus. Jangan menambahkan detail rekaan demi memenuhi pemeriksaan ini.
+4. **Uji hapus:** hapus kalimat pertama dan terakhir dalam pikiran. Kalau makna utuh, keduanya memang harus dihapus.
+5. **Uji baca nyaring:** adakah kalimat yang janggal diucapkan? Tulis ulang seperti menjelaskan ke satu orang nyata.
+6. **Uji konsistensi:** satu sapaan, satu istilah per konsep, satu gaya kapital judul, ragam seragam dari judul sampai tombol atau penutup.
+7. **Uji bungkus:** naskah yang diserahkan bebas pengantar ("Berikut…"), tawaran lanjutan, dan markdown yang tidak dirender mediumnya. Kalau mediumnya tidak diketahui, serahkan teks polos.
 
 ## Referensi
 
 | Berkas | Isi | Baca ketika |
 |---|---|---|
-| [references/frasa-terlarang.md](references/frasa-terlarang.md) | ±100 frasa terlarang per kategori + ganti | Menulis teks >2 paragraf, atau menyunting teks yang dicurigai slop |
-| [references/kata-baku.md](references/kata-baku.md) | ±100 pasang baku dan salah tulisnya | Ragam resmi/konsultatif, atau saat ragu satu kata |
+| [references/frasa-terlarang.md](references/frasa-terlarang.md) | Frasa dan pola terlarang per kategori + ganti, pola pengganti, yang bukan slop | Menulis teks di atas ±150 kata, menyunting, atau memeriksa. Untuk teks pendek (caption, microcopy), L1 sampai L10 dan pemeriksa otomatis cukup |
+| [references/penyuntingan.md](references/penyuntingan.md) | Mode menyunting dan memeriksa, format laporan temuan, sikap terhadap detektor AI | Pengguna menyerahkan teks jadi untuk diperbaiki atau dinilai |
+| [references/kata-baku.md](references/kata-baku.md) | ±110 pasang baku dan salah tulisnya | Ragu satu kata, atau pemeriksa otomatis tidak bisa dijalankan (skrip sudah memindai daftar ini) |
 | [references/padanan-istilah.md](references/padanan-istilah.md) | Padanan asing ke Indonesia bertingkat lazim/tumbuh/kaku | Teks memuat istilah teknologi/bisnis asing |
-| [references/ejaan-eyd.md](references/ejaan-eyd.md) | EYD V: di-/di, kapital, tanda baca, angka, serapan, D-M, kalimat rancu | Ragam resmi, dokumen panjang, atau permintaan penyuntingan ejaan |
+| [references/ejaan-eyd.md](references/ejaan-eyd.md) | EYD V: di-/di, kapital, tanda baca, angka, serapan, D-M, kalimat rancu | Dokumen resmi yang panjang, permintaan penyuntingan ejaan, atau ragu satu kaidah |
+| `scripts/periksa.py` | Pemeriksa otomatis (Python 3, tanpa dependensi) | Sebelum menyerahkan draf apa pun |
