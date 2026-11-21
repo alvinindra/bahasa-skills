@@ -1,0 +1,18 @@
+[
+  {"id": "M1", "kategori": "marketing", "ragam": "santai", "seo": false,
+   "prompt": "Buatkan caption Instagram untuk akun @rotipagi.bdg, toko roti rumahan di Bandung. Isinya: menu baru roti sobek pandan keju, harga Rp28.000, tersedia mulai Senin 7 Desember 2026, pre-order lewat WhatsApp paling lambat H-1 pukul 17.00. Target: ibu rumah tangga dan pekerja kantoran sekitar Antapani. Nada santai, sapaan 'kamu'."},
+  {"id": "M2", "kategori": "marketing", "ragam": "konsultatif", "seo": false,
+   "prompt": "Tulis email penawaran (subjek dan isi) dari Lintas Arsip, jasa alih media dokumen kertas ke digital, untuk manajer administrasi klinik. Fakta yang boleh dipakai hanya ini: tarif Rp350 per lembar, minimum 2.000 lembar, pengerjaan di lokasi klien, hasil berupa PDF yang teksnya bisa dicari, uji coba gratis 100 lembar. Sapaan 'Anda'. Satu ajakan: balas email untuk menjadwalkan uji coba."},
+  {"id": "W1", "kategori": "website", "ragam": "konsultatif", "seo": false,
+   "prompt": "Tulis teks bagian hero (headline, subheadline, dan label tombol utama) untuk landing page Setorin, aplikasi pencatat setoran harian untuk pemilik angkot dan sopirnya. Fakta yang boleh dipakai hanya ini: setoran dicatat lewat ponsel, rekap mingguan otomatis dikirim ke WhatsApp pemilik, gratis untuk 1 kendaraan, Rp15.000 per kendaraan per bulan untuk kendaraan berikutnya. Sapaan 'Anda'."},
+  {"id": "W2", "kategori": "website", "ragam": "konsultatif", "seo": false,
+   "prompt": "Tulis microcopy untuk aplikasi tabungan sekolah 'Celengan Kelas': (1) pesan galat saat setoran gagal karena koneksi terputus, (2) empty state saat belum ada riwayat setoran, (3) dialog konfirmasi sebelum menghapus data satu siswa. Masing-masing lengkap dengan label tombol. Pengguna: wali kelas SD. Sapaan 'Anda'."},
+  {"id": "S1", "kategori": "seo", "ragam": "santai", "seo": true,
+   "prompt": "Tulis judul artikel dan paragraf pembuka (3-4 kalimat) untuk artikel blog yang menyasar kata kunci 'cara menyimpan cabai agar tahan lama'. Konteks: blog toko sayur daring untuk ibu rumah tangga, sapaan 'kamu'. Fakta yang boleh dipakai hanya ini: cabai dicuci lalu dikeringkan sebelum disimpan, tangkai dibuang, disimpan dalam wadah kedap udara berlapis tisu di kulkas, tisu diganti bila lembap."},
+  {"id": "S2", "kategori": "seo", "ragam": "santai", "seo": true,
+   "prompt": "Tulis artikel blog sekitar 250 kata untuk kata kunci 'biaya balik nama motor'. Konteks: blog bengkel motor, pembacanya pemilik motor bekas, sapaan 'kamu'. Kamu tidak punya data tarif resmi; jangan mengarang angka. Jelaskan komponen biaya yang umum perlu disiapkan dan sarankan pembaca mengecek tarif di Samsat setempat."},
+  {"id": "P1", "kategori": "peneliti", "ragam": "resmi", "seo": false,
+   "prompt": "Tulis satu paragraf latar belakang (4-6 kalimat) untuk proposal skripsi tentang hubungan durasi tidur dan konsentrasi belajar siswa SMA. Ragam resmi. Data yang tersedia dan boleh dipakai hanya ini: survei internal SMAN 4 Kota X tahun 2026 terhadap 312 siswa mencatat 58% siswa tidur kurang dari 7 jam pada malam sekolah. Jangan menambah rujukan lain."},
+  {"id": "I1", "kategori": "inti", "ragam": "konsultatif", "seo": false,
+   "prompt": "Tulis email pengumuman untuk seluruh karyawan PT Sagara Logistik: mulai Senin 4 Januari 2027 jam kerja kantor pusat berubah dari 08.00 sampai 17.00 menjadi 07.30 sampai 16.30; berlaku untuk karyawan kantor pusat, tidak untuk gudang; alasannya penyesuaian dengan jadwal bongkar muat pelabuhan; pertanyaan ke bagian SDM lewat sdm@sagaralogistik.example. Pengirim: Kepala Bagian SDM. Ragam setengah resmi."}
+]
